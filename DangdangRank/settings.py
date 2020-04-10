@@ -20,7 +20,7 @@ NEWSPIDER_MODULE = 'DangdangRank.spiders'
 ROBOTSTXT_OBEY = False
 COOKIES_ENABLED = False
 COOKIES_DEBUG = False
-DOWNLOAD_DELAY = 1
+# DOWNLOAD_DELAY = 1
 
 DOWNLOADER_MIDDLEWARES = {
     'DangdangRank.middlewares.RandomUserAgentMiddlware': 2,
@@ -42,11 +42,13 @@ custom_settings = {
     }
 }
 
+# 设置爬取年份
+RANK_YEAR = '2019'
 
 """ mongodb相关设置 """
 MONGO_URL = '120.53.12.69:27017'
 MONGO_DB = 'dangdang'
-MONGO_COL = 'book_rank_2016'
+MONGO_COL = 'book_rank_' + RANK_YEAR
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 SQL_DATE_FORMAT = "%Y-%m-%d"
 

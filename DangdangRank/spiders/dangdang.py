@@ -3,6 +3,7 @@ import scrapy
 from scrapy import Request
 from DangdangRank.items import DangdangItemLoader, DangdangItem
 from DangdangRank.utils.common import get_md5
+from DangdangRank.settings import RANK_YEAR
 
 
 # scrapy shell -s USER_AGENT="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36" http://bang.dangdang.com/books/bestsellers/01.00.00.00.00.00-year-2016-0-1-1
@@ -11,7 +12,7 @@ class DangdangSpider(scrapy.Spider):
     name = 'dangdang'
     allowed_domains = ['product.dangdang.com', 'bang.dangdang.com']
     start_urls = ['http://bang.dangdang.com/']
-    rank_year = 2016
+    rank_year = RANK_YEAR
 
     def parse(self, response):
         for i in range(1, 26):

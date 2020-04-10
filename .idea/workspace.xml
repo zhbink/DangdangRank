@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937cdf1b-c155-4c4b-8fb7-bdf2984aca5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" afterDir="false" />
     </list>
@@ -12,41 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/DangdangRank$settings.coverage" NAME="settings Coverage Results" MODIFIED="1586420365301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DangdangRank" />
+    <SUITE FILE_PATH="coverage/DangdangRank$settings.coverage" NAME="settings Coverage Results" MODIFIED="1586499053275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DangdangRank" />
     <SUITE FILE_PATH="coverage/DangdangRank$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1586410060374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DangdangRank" />
-    <SUITE FILE_PATH="coverage/DangdangRank$main.coverage" NAME="main Coverage Results" MODIFIED="1586498321932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DangdangRank$main.coverage" NAME="main Coverage Results" MODIFIED="1586499191637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-              <folding>
-                <element signature="e#155#168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="e#196#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DangdangRank/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            <state relative-caret-position="440">
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -54,19 +31,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DangdangRank/spiders/dangdang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/utils/common.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,6 +60,7 @@
         <option value="$PROJECT_DIR$/DangdangRank/utils/common.py" />
         <option value="$PROJECT_DIR$/DangdangRank/pipelines.py" />
         <option value="$PROJECT_DIR$/DangdangRank/items.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" />
         <option value="$PROJECT_DIR$/DangdangRank/settings.py" />
       </list>
@@ -118,6 +87,12 @@
               <item name="DangdangRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
               <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DangdangRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
+              <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,12 +207,12 @@
       <updated>1586409182344</updated>
       <workItem from="1586409186664" duration="18876000" />
       <workItem from="1586439935715" duration="44000" />
-      <workItem from="1586492065630" duration="1845000" />
+      <workItem from="1586492065630" duration="2811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20765000" />
+    <option name="totallyTimeSpent" value="21731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -320,29 +295,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-          <folding>
-            <element signature="e#170#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/0aa41003f2725e600a75c563641a59d964191d4a.jpg" />
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/0ada672f09b5d49f96fbd3a50102b9594969736e.jpg" />
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/1b43ff4d7a8bf32585a735a2a44180e66108f2de.jpg" />
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/2ca4d32304805496a40bac1085860ba36034bf52.jpg" />
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/5ca30f74fa0c953528e80b389cca4315e5647728.jpg" />
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/0ee09d7d58f90ae443b0be1e7d48b89d81ea0122.jpg" />
-    <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/DangdangRank/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="e#196#210#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -356,17 +325,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/spiders/dangdang.py">
+    <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#196#210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -377,6 +342,23 @@
           <folding>
             <element signature="e#155#168#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DangdangRank/spiders/dangdang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DangdangRank/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
         </state>
       </provider>
     </entry>
