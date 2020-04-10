@@ -42,6 +42,7 @@ custom_settings = {
     }
 }
 
+
 """ mongodb相关设置 """
 MONGO_URL = '120.53.12.69:27017'
 MONGO_DB = 'dangdang'

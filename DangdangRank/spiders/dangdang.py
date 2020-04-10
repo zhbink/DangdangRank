@@ -14,7 +14,7 @@ class DangdangSpider(scrapy.Spider):
     rank_year = 2016
 
     def parse(self, response):
-        for i in range(1):
+        for i in range(1, 26):
             url = 'http://bang.dangdang.com/books/bestsellers/01.00.00.00.00.00-year-{0}-0-1-{1}'.format(self.rank_year, i)
             yield Request(url=url, callback=self.parse_item)
 
