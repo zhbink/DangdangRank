@@ -28,18 +28,24 @@ class DangdangItemLoader(ItemLoader):
 
 class DangdangItem(scrapy.Item):
     url = scrapy.Field()
-    url_object_id = scrapy.Field()
-    rank_year = scrapy.Field()
+    # url_object_id = scrapy.Field()
+    rank_year = scrapy.Field(
+        input_processor=Compose(
+            lambda x: int(x[0])
+        )
+    )
     rank = scrapy.Field(
-        input_processor=MapCompose(
-            lambda x: x.split('.'),
+        input_processor=Compose(
+            lambda x: x[0],
+            lambda x: int(x.split('.')[0]),
         )
     )
     book_name = scrapy.Field(
         # input_processor=MapCompose(remove_brackets)
         input_processor=Compose(
             lambda x: x[0],
-            lambda x: re.sub("\（.*", "", x)
+            lambda x: re.sub("\（.*", "", x),
+            lambda x: re.sub("\(.*", "", x)
         )
     )
     author = scrapy.Field()
@@ -52,7 +58,7 @@ class DangdangItem(scrapy.Item):
         # input_processor=MapCompose(remove_sign)
         input_processor=Compose(
             lambda x: x[0],
-            lambda x: x.split('¥')[1]
+            lambda x: float(x.split('¥')[1])
         )
     )
     publish_time = scrapy.Field()
@@ -66,6 +72,6 @@ class DangdangItem(scrapy.Item):
     recommend_percent=scrapy.Field(
         input_processor=Compose(
             lambda x: x[0],
-            lambda x: x.split('%')[0]
+            lambda x: float(x.split('%')[0])
         )
     )

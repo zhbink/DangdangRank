@@ -43,10 +43,11 @@ custom_settings = {
 }
 
 # 设置爬取年份
-RANK_YEAR = '2019'
+RANK_YEAR = '2016'
 
 """ mongodb相关设置 """
-MONGO_URL = '120.53.12.69:27017'
+# MONGO_URL = '120.53.12.69:27017'
+MONGO_URL = '127.0.0.1:27017'
 MONGO_DB = 'dangdang'
 MONGO_COL = 'book_rank_' + RANK_YEAR
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"

@@ -36,7 +36,9 @@ class MongoPipeline(object):
         self.col = self.db[self.mongo_col]
 
     def process_item(self, item, spider):
-        self.col.insert_one(dict(item))
+        item_dict = dict(item)
+        item_dict.pop('front_image_url')
+        self.col.insert_one(item_dict)
         return item
 
     def close_spider(self, spider):

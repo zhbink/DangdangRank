@@ -4,6 +4,8 @@ from scrapy import Request
 from DangdangRank.items import DangdangItemLoader, DangdangItem
 from DangdangRank.utils.common import get_md5
 from DangdangRank.settings import RANK_YEAR
+import requests
+import urllib
 
 
 # scrapy shell -s USER_AGENT="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36" http://bang.dangdang.com/books/bestsellers/01.00.00.00.00.00-year-2016-0-1-1
@@ -26,7 +28,7 @@ class DangdangSpider(scrapy.Spider):
             loader.add_css("rank", ".list_num::text")
             url = r.css(".name a::attr(href)").extract_first()
             loader.add_value("url", url)
-            loader.add_value("url_object_id", get_md5(url))
+            # loader.add_value("url_object_id", get_md5(url))
             loader.add_css("book_name", ".name a::attr(title)")
             loader.add_css("author", ".publisher_info a::text")
             loader.add_css("publisher", ".publisher_info a::text")
