@@ -2,7 +2,1176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937cdf1b-c155-4c4b-8fb7-bdf2984aca5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/001e779c87294a96e93f7bc342d35ac5493570b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/003c15962d2d4de293b5381f1b161cc1cc17025a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/00446ded96939384ad02087060fa618c01de6b8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/00ce843a536351d1f7ea0098c8d3a277ac0cff5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/00dcd32bb45bf21cafd7f5b1449a08a8730b11d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/00ff816f0d27b338c7c1855468d751649fa6de71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/017fcaec753b9fa6769e4262dd68ade946ea350b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/01c1888903e96f7a51ddf3da748e4a66bec8e778.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/01cea52f47be35cdd85f29bbca857767f3cdcc81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/01db7ba741a23a3e3713bc0749f6c8248de267e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/020d6cfb3c6411ea269d1ef579debdfe69000e6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/021eeab52d680620e59a050080a947515bd01820.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0229a406b71ce67fdef2f3e8ee03f70466a1c839.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/027818c7cf5bde4ab38b313660dd0229f85db3ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0286991e5e1de583090ed879ce97d9863399a913.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/037059772ffca9980a3ff965dabd6c6c8489b5c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/03a9ef89f0194d0afc8f616df7f4818201934d31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/03c8c67816cebb1f7f7c5e27b073aa3cb326cf0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0419d36159656dd02267088f5585018c87adff5c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/043e2ecfe3d51112fc238369ee118f7e288592cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/04640c019503ce3a81bd3df958578c0eb5b46fd4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/04de83d911cdf9a3de7b7b72d1cb354437aec1cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/04f8bb61e02505aeab6911a540d4551d142501de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/059b6f8f2b2f6b69f48c80840c1f6e0aa5bfa2ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/05cfeccc2a515350cf2997ca906f629848708c07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0607c191d0ed75e774b788e5fec62c9fea61d25c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/065b2b5aaefd23ff7fbc9e5127441172a502a4c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/069a8e8b93b69b2e4921070331fff7261debad66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/06b8cafc0350ee2dc7389940b97df4d9adca4a0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/071af9b82f5e46d9089d6df2f54038c1ff709dbd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0730d165df21a32b0db718c1f470a4661d70d826.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0745bf911958f8dbfba592224811bb677aae651d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0809340928aaa923c01f4a979c645fd89b43e595.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/085445c8df0323317bc468a70719572facc1364b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/085d370f053e1cd173d28e2f740d5cca5779ce4b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0880e2cc84076934cbbe885c48c686e0054671ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/090d7385a0d20b802420e92f730f0d9241066872.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/09119d0d5caa70ccf90ae3b244e4055bddf8bae1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0938e82e0a9c587acf59687e8ea6e901e922c422.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/096c778ab1f6bcdab91d9109ed73e07ba7cf600f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/09875dd83d280af6c8053ea175329cd560e7e441.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0a0704ebf18cc739e6ae6587b987df0c71b5e7e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0a3ff14b3002de956aa5d78c3accbd383173e935.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0a8dcbd47fbe7eee6414412aa1bf17e1377750a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0a987a4462b93d6c9de7182cbdc1a807365554cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0aa41003f2725e600a75c563641a59d964191d4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0ac5cdba8156c420e2327c9c77ca392f17fe976f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0ad32cbb2c17fec1e0817caf6c7647914bf82442.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0ada672f09b5d49f96fbd3a50102b9594969736e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0afa55df4c7a2bcab2e4a43aca1ba6104b3c15a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0b0be96298506f15b248c4189558f28e32454c9f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0b60520b21b9f250dc98c9d9af861768491ac4c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0b88dbb6f68c8636365d927d1dcb958991fe8a5f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0c06b10c675647e13db6775b10b6d756396a2f22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0c403ff9e384ce296141f03330dea1175d9e924b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0c4b8ad44ad730ceb7d2a9eb397ae66d0b387a6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0c6f85cb839bf937ea7df1627ac93c37baf8dec5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0c94f698d3bbe5803d47b845ea136da8f47f8a3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0ca921f35a76b149469a5a55dc6a096d0f32afef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0cfde6d828a755e7c40db6ad53e2031abc90a95b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0d28513e620bbedd25993dd491f74519a1266cad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0d7eba80cc3dc6e0e90cf9ecf402a1df0f9bdd08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0e2ec46514a0da113a6da2b48f96a57a0c2fe380.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0e62e6c8a41456f0e1e35bb474cbfd529a8d3417.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0e6621f5cf936050fc98f424abc9abb79e4a5043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0ee09d7d58f90ae443b0be1e7d48b89d81ea0122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0ef738d07f0db2f0aaab7f4a6d443a325365d12e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0f02211efcd131a2aa0a1d620a8962a711fe9b9b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0f1671a69c5296ed135d6d6a04c3203c87c7fffd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0f296e9f014f372844afbbfad280d74363ef24b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0f30702a48a9bdc916aa4e5fcdfba8d11680587d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/0ff567c3d5e9e07f0e0618e015ad21c4965b31fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1057178c441599e351154496322a7a5979be3900.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/10915e87e92aa64690be843a0f8159c280569201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/10be0c64510584f6881d17d3efd1a4d7930ec7aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/10e96f13cbe138ce06da568dcb8450fae55f8120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/11415aead492f1daee7424eb0d3246be879b0000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/116aeed86bdc19ff3ef0779550e537240d630337.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/11d2fac2c41479ca8e190f84fbe99df74becaba0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/125d55838f7a5a4d8458f990384ece5a24fd7b31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/126b91aee3bdd5168ca76328776776cad0e01353.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/129a7416851b662d232e58a0fe65ce9e4b4199a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/12b4af27340fddd96a63ea725a19c09c69a322b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/12c5325f118ef731cb672897c2580eb1a4ddb462.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/132a4cdcd7d86336c00b5449b17b2734d58bf469.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/13564fd225ad54e820d938e026e7fbe22d8c6238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/13ad7dd62d9f6bc355324dc339081b803449d0c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/13bbca56af5c11a48af201ca5494f54dea8e1ab2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/13c96ae8629c89def726e4a61de507a269675591.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/13fb80d55a7868569c74b2d03fcce05bcf898ff1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/142e4714f1b94b90621e840da29304b4e65047aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/14987f59443f6d65c2778618894a31b5113b262e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/14a9a57580953babc4cd4e2e6839b8a877e075ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/14dca2d2144c80c300e035b013bfdf210536660d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/14efd7fec55f652220eee0d90807f8ffa719f2f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/14f6091c1207edca4cb8e2f9b0f54bb8a3bddcac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/14ffd93c3620d795c92c1517bf647b716a3842d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/150005e4b2e852fe38c88fd927dafaa4a0a1212c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/150a218f81197b9acd59a915da6115f179f591ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/152b70dd0e09b256c82f130aae240f5f18882832.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/159424151ed28c7c529ec3fed21f9740966b59d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/15c47363b54f3b4265a84bf610200d5b832a9b38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/16bdef719c2a5466a3c6748ad69b46a7f1b43d8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/16fecf1e8d27020563c0ceef1e11efbbaa8c7b5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/17a2d36146a1c9f4f103cb777d180e626d1102b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/17a78cd9e620ed07093b2fb502f48732299ac413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/17c542c3281234fcccb1689a4fd63926d0976f45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/17dc9ef5de55d778132fc693a84615d831c0a714.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1809a1925cb51921529fd21f01c13fbe8ee85ba8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/182cd0639f05c80aeac8914bd431729362e28cb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1859676a6b52b1e9fc3070db71fc4dd015016f9e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1888c7d6bfbbf73b9b2bf983a7853a130e10185a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/18ca6738983f86fceff8c282f7add8b749379a95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/18dae0c3e9bb93adf26ca79576a8b86fd177f68e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/18f66eca363cb9ad2743226ce31adf97a47bd957.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/190d2a3a4d224ed363cfc01b77066784dad9b9dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/191aa79e140bedb4ac7d2df08214035c21c07cb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/19464a686aa220547ddd7f69b7101722f2de69a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/19646615fd1ada03bb7ebfb329819ead1173e0d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/19fae10266b4d3063f751d0add0f7b038992861f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1a1b3857d1934ea1561e605c5cb66d6a4c54b7fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1a265df4765d4aed707ead80b86959cac3e832bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1a36e7b82820d69416c21886d0ad6ff74dd2fd2e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1b40a3189a2ef93b62cc9fd68bda41d7e8c4b9de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1b43ff4d7a8bf32585a735a2a44180e66108f2de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1b8971a3c6037cbf45e5b63eaca682ab7c91be25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1bc194f9785f98944616b440a3cbfc80fd6ed283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1bc4258b5fff2b4ffe841be610c949fcda2018e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1c33569f6e29f4f7e664c47018a5f73ff6888c9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1c82a8ba5df9d537326e11a75b9fe45229379443.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1c8dfce22635f5bd3fa939f18471d2e8a3afe53e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1cc139dd6a5bcdeb182be2a988f66608260ee93b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1cfce12ab280301b0f31d2ed50cbfe9ec0d86c66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1d053274094fb88f0e27e260bb78e5df1c94074a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1d871145e780f5b673cf5aebc2636e75eea41b76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1da853dbd123b7639bdbf5d02d5e95f9adb6b9d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1da9b96e2c6257b260509d5f5d732b679046e860.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1dca96bcbb41ec0ec8872f0da8558d9be9f81ae0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1dd557a92ee38b07e0966f9819b81754df58c760.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1dd989e154338dc9f27527f63cd6ca755c25dbfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1ddee2379a310cd09b0bc068e42474c4d6c7027f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1df38f479429401de4ee91bb5340fc6db5910e83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1e10ebfeae8bf3c5a160807057ff15db1403780f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1e22855dcb9e313fe7007876aea393f76b81006d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1e4d50b3b2b39584bc7d9118a537c6df0d4817e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1e967acd4334e0a3e8f8f591c0c341e74a0b5d08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1ea47decc1a127b0bb8b74426515fca0067672ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1efd9f5c8e1b70e573b62d657b6ae3d6dda511f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1f97f70c96bca0a4527416405074a9aa187b7e15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/1fa6ce5d0b3f61dc92f654c8898ba7c4e2948a73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/202657223611fbeea1b0f6a917a0b4f2eda9ab0c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/202ca40bf00d95846b3afab99ef346b034df6038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2051d345136ce78c20467f002d2e14b9f7987ed5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2064acf705ea50306b0d9e5e729ecf612cf60cd9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2066178058683c4a6b5ef6287ca91ee8bc80f7f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/20777d5898ce163233c4a91dc32ebc2ab12ad413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/20eae52644675691ab6000fb70f731b30f7718c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/213f20da1d71f215f71f44c552c78a40a57922db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2170914d2e46705209c251fd1a6fa6df8815d84b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/21c97b2f12b169303737949930083aa262c827d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/21d893fc248189d0494d22c3be071a6e92be6836.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/21f36bad22ddb5ed029e1b5e25b9833be6587b3d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/223a9c28864135d5ec0fa9a86e1959edafe83564.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/229c70dbe1513377730a79c93829b36e1b7c9d6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/22ae7cb416a80992d24515f8f45fa58869f000d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/22d6f32af646cecc5bdb3ab08900a546699fb73d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/238e371ded59c316df865a162b9fbe2e32769ed8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/23dc58c4823dc37a2fab810333c6512c075b1254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/23f986c57968125a0d787f9d80a6f12fc624e66f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/240a48b3238edb2da35eda3715801673407c3528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/241f3620ef7d021cc4110aebc7621628c14686c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/24481763df78c37ed430a41f8303adc41ab11807.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/24fcd937d77fe2b66fea5acbd3f0c0164d676559.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/25105a57fc11f532cddaf11d51c2bee7bc0f187d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/252c6924c5ecc857423e2850dba0e62c7c329c2c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/25932ab33aea696cf9bd0e8cba8a4af313579a2d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/25c2822fe0823dabce772944a00ae0417ac27e1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/25fe26ceba1349e8db6715b74faf14c0e39620e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/26773f26f07322d788e5ed0df2b83b329311dbd4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2696a51a62d2f6346abff63a3a954cb63a67374a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/26ad4ffb40391e42e7905f9d7e3ab1093877d025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/26cfbd2ebe4b6cd95759e8b76feea66b746360ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/26d85523319c22511e3691cba5a746470ca31ee3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/271b8bfc37a5a83186d94603746e2fe13029ed8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2780ec707923284ef6b652313c451dd3ea3f0e69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/27b261d2ca48d11bb4d723fdb201576990e9f075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/281fb1b01755982c3886aa756099ccc10a3deac4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/28309bed20087e3e76015d470366bfeb85be7e19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/285aeaa5b8948b44397ed6338adf0db16e871b8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/286280e017d49b711bb9c6c17f63410995b633da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2864e5f1ee004c380ba46caa0fde5489db3bdce6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2888b5f42ee30f9d4ef511f2d1b34cae5f501c31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2902f4572886961b266a5139267107b8b2730f47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/298698aa233ddb1f62a7de3070845f04f8ae7d72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/29b4f6a8e31ad7c5709851493686b805a30f7e2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/29c38b26050c55e9573c7947149cccc01d3a32e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/29cde360c34a6eac1ca6996ce627f75eb2650493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/29d88446c4f9eac77548824aae7aa902311266fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/29e0df3f7cf10ae17c5b525527b821769d237136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2a2d62b371c30d6ae8153a1977a0dd67706fc4e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2a588f0972b3ccaaacc8907fbdf835a02aee61a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2a5ce2efb16fc5c83189a10245c1c11dab63478a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2a8d190d247efb7b745e9620a721991b02b7642f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2acdc97ce4c2fd0cb113b564f02fe04f477f8bea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2b1ad7d35117ad5d2d2517c8eebbeff52cd5855c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2b21a42a1a0001dcf43530e0602fa4cdaeb700d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2b23ecd666fb7ccb2f2751fb9eaa85f8a6c1d7b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2b45f2b0a99accb0c1345dcd8beff9d8df664d83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2bd6ad9f710d4b377843084cd064c8f70ac8a90a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2c1c57b9b4443220e5bcdff71fef1205f1722614.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2c3fbf750dce257cc9b5ecd9e837b270df7c1ed4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2c4bee67b983c7a6dbe3cc9cacf24bc1fe90e17e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2c4dc95103f52bb20a08437224f3d00a3bbfa849.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2c7e990251dd731f8089ac7d7d3db655ee044cb8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2ca4d32304805496a40bac1085860ba36034bf52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2cc24843cb656d46b5fdc71b2632088aa016cc2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2cc7e53eb573906a3729781d86504540a03cb125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2cec87589999984cd45c8f072e2c5dcef177dcad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2d24a1e6541b72a347414f957487385d6638f70c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2d28c60ad8bb21a62c28020973f99c0dd60678ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2d2923ba298d5ad75b8fab92d8f27d0f238419f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2d56f0b89cff92ad972c7b7dc593f252b3d8534d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2db7560a1287466f46e8ab42041680f113d8c75d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2e0c06332bf42a309168a019ea91960c69b81b49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2e5a2c94bac02ba336feb8235327336f44122a7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2e91748511369bab9725469d88f4b08d9c8f8cc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2e945da325deee5625d000cac5ed1c9f017ba6d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2e9715b0084ce5f07980c4da83b572d1a4aefb8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2ebff00f720be037a7f881b63fe2b8558ecc4293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2ed95e2de0758992eaf3968ce9673513fb6bd18b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2eecf24d85a8a9c2051571bcaa107970a584c2fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2f0ce1b73e325e092db51e21d072678b9302d706.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2f1966b8731079a3b9762ca0b05f73a06f5f3827.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2f4a6f215f4fbe1294cf1142bc67a17590398988.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2f51d2b90f4ca598b44e9daaf5db8fcf26f67e1e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2f76d59cc5ce33e7467ba5ffdcd0f6b034eb1fec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2f9ea8c65a95bc60f9841d5f472f80fb7771c12a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/2fd76bf480d6a5fea8178cc875ff31e1b3818818.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/304e80277d77e596654b4087135fda6b69e7987e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/30872bb76b9e7b1c2b8018e1dd758ff27d10a1cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/308db1b3d479fb5c773f2017ae5ddf931eb579c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/309713b4293faae5f2bd677082af3d0dbce89023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/30b0f3ec05893db51c488867705c8fd2e741774a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/31a8f41209a63e7738b6796660b0d076e3285061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/31f3a7b13953d742ca65e7e3cb8140fe3b02e6b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/328b40f61f0defde6c6a7989d9822800328dc9de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/32a042feea843f6a7e0050f07ac5296b85d07413.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/32fbf524306340267828d2141ca79c60d99b941d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/33470f5931250b10945faf3d94e30af67acdb37e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/33474ddb68e6a987046d91b75c79a515948e8d8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3351039fd402551cb4f2f7233afaad2e86068b1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/338c8eafc8943fca7649e026203ab5a309855bd5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/33b45327958a102a55e21dafcd66f06f63e1268a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/33bb475633937d068a8725dca7cf70e2d0f2ea81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/33ea3bef028987a66126d40993ce197ef60616f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3404e17ffe0630073404d933b949b197f102ed02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/34c49564b860e1d53e467151ebc1a11fec06ba8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/34db1f0dc623a77c151aeadfba5d97d9a826501a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/353629eccd99ab312083be818e9199ee1da0e2ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/36736e7edefb0d08118beb565c8c12c898edc191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/369a9e54d3e30d26f9960b1dfb920a88e10da295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/36a4844afe43aece71fcd285459ee8eaecb9586b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3727c48690b3b70c27c99d706055bbe8ea18cbe9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/372e696aa14a92941ec27d704358a08335de4875.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/375836ddfcef3f42bb2cda927221d142f8c555fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/37648b92b1a732aa1ce35ba51a72f3059ef0defa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/37b7cbdcf6330e37f6df992e237cb3f255696d6a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/381df75456e99b31ff5280e9414bc8144c2676d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3822aa079a275db416e51ee47b19d42b407b1901.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/38258424953ea6da872f275bc60d8bed9a82044b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/382ae6723aa51e0b1d2e0dc1fccb73e3b30125b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3836c49546f374ba0f24306f128e38aad249cafc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/38b7131fa66a19a72e7d71e2a8b410d7e992e9d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/38b7a338ae25e126babbe15f1a641cf70f4faa1e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/38cb7673165126a2400e0cc48d263e09237566bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/38db00bb018041529140a715ef87f218a53a489c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3950395a60e067e73b1f35407e16a60797f5caea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/39a77b76e07feabde31297b3658f1a14124c77d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/39f37409869fa60a5f98ce5f2ef06ad75f6be5d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3a089e5d665c6f2760116f74807ddc3620abd9a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3a3656c63620c9365b445a90cb3528776f493a5f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3a402c22c961afca8f2d9a247fc60166ff52b35d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3a4a146026232f68366509d04d7aaed64854988d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3a70b71bff04579fd6c435dc92649c544ed8e50d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3af5143113c6a227ac9be4ce5c0e7ada1f0d6084.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b1cc85b184fa6ece1c7f680aea3a893253bac46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b1dc0926a5bbcb672cf9d48c2fb40e773622b49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b3b4d310b608f7839d7c8828143352254225ef2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b6dc68a16536406e2e8e5823f7c9c69968896f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b85e80bd52eb184001bec22a0227585137d20bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b9a5eb502fd96e130df7f14ab3ebeccb1526d1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3bcfa22aa6c6cb63f2233d0432d44b7e28b0527d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3ca67d0b4e42bf086085a0bf8c3c9ecdd214aea5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3cb883df22bed4abcc0c8aeee2d64943a6029658.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3ce9617ada0cd27988acf43caf979cde417998ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3ceb55e971b28e660b1b1653bba50924698c73de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3cf3392b92f0ebe107ec5ea509d542ba19c2abf9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3d2a047f4108effdb55c64203b79b4aff3b16d8b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3d4de706b800823ac760bc34f6ad75d8fb11fa97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3d656808a2194a4bbbb01a2facb8939e8a5526b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3d86353a2f7278b1c0808a1b1283dff0e41ffb31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3d8af5ec6e07746b6dedaee064b75a11b6a1dc3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3dbb8206991e0fbd894fd6f47da3a99fb51e4dc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3dc8b6bbb0d7764260f12ef86f06ad110fd7022c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3dd44f1b919422a9be24592e7bfdef8700021713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3df75665d247a4646a665bd3a191e30a29b3ce45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3e0c7c5be0f82e41e8e50db5d4170e04d2d9b344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3ed37b17ef5ecaf60c0fff4b30c5bca9355c462f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3eec1f02c709b7329bf860bf24eaab48399ceb08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3efbc4758cc94e40d0d19ca07d2b4de585a436f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3f085a39d8f201999704148f406cf49577454211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3fb4eb4ee68648c6be6e1c062deae625e5971d98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3fbbc9814b37b40e7888fbc162ef26a2a37f3247.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/400044c65853e6af868e54b0fc1558327113e86d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/404117f69f0c8776e02d485d77f216cc7087cbb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/405b7b7b7604756b2f60c00690dd8cfad3a4c71c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/40959d1b856139bf0f13ceec3dac06a010c9be5c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/40a7891c584e76b626a82663cf66b5ed2a1cfda8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/40b37c39b0d40baadf6b925b7ddd2662da0ac7c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/41177431c7a693e40cd9a8c7a111b76e507d81e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4150731f570e8faa58f648331da36959a932e2e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/41ecb0abccdf67d17deef6a70902f294ae2ecb1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/41fe3f7c8607bc1be9a1db66e0580d3e3c0f4b88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4201ce9b5427b794b580620cd2b3258c3c2c3a36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/421ee271a69252be1228c9b03d92b527bc310d62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/421f1ebd07161f9d66556e4af7d3bbad83fd909d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/421fb4ed15dbfa175bafadd61ae76d0f59d78f10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/423df1e0874c15ee0b92aa56ac80da13d55541d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/42849e5386c7189941c4bb33320370403ac7f422.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4290b0b17e3b3aac5eb88c00f8a850c181da5f21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/42a9183b8eac7209bae2101bd9c381e4adbe3dfc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/42ce1119a14b4a5164cf0c923c029633dd7df0f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4399147ef67dc889e13da50fe95123e39ba9febb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4399c997bdc02cc19a06238b2d2252fb0152bd44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/43b479cb1d731713cd1b2776e60de2b35ccacbe5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/43fb8a69c4e6d6f5fa803b16cd2ee36a7e5c9dbd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4443246f6f53f1ca7d6c5a8cc43e900462d4c11e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4443e0d269f21e8246b28bf578f6479e1ef33030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/444546ce2a5ad0f0f6b0432b87f22dd0ef192ac4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/44c3e7147e440a542f4aff90f85a517d6afa6810.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/44c438ae774a676dfca7f51d1ba9cf01077255df.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/450c20997e96d88dc675578e8a0213a7253b97b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/452ddf04e471a6cf276516a29817abb4e03a83da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/456de3558654d15d7f9b748ed6c24b86241f285c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/45980e5d40da3019550b8abbac15fe983fbabf49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/45c9ecd899c47e58ddc4fa04b00a9609e3db32e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4682d9638b90c63d83a01b1243760e5624d53458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/472096ad81243640e31e9967667c28f186b31702.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/47274bca9b14ae105f370a4c5c0ed7c79d011b8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4758a79513c83fbad1109673cb0a1664a06e7461.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/47ac6c9112df2380b87d8e5291d103b41ace2afb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/47f1361ea1e7077fc94cfcbd4831530065d8d693.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48160ed941dfd95ce0c494fe38a199c294ed47d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48ae6b292709775a007583f6ebe6c16f21fcbbe5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48b5780d489c8ac66fb4f38e552306309b910080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48c56e135a7d4daa5e2b4c45c9a497dca7fdf3f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48cb6958c17f2ea902a56f4adc6b5f9874d3fb51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48d8c5363d67f0a5bca58e099e3b3bbd50cb94be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48d9b37c25ebbea407f7ce31e21b4d2c81238657.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/48fae10aa438ccbed7ca67af5c248da277a17baa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4905dcecf71a801f6ca594001396e50cd50090be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4932f605d8945c573b7bb06c5390f42d662ea4a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/494c4b49a69b67268664c8b823ac0e2c6eac69d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/496ad4eae3c537979c2ac165cc31baf820893c5f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/499434bc385481842a2185e954fa0e941dad302d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/499eb9ae3506db6e3cdea06ac5e5def6f4cea235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/49b1dd429c6175cdc52d97461f0961c7735563df.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/49ef0113dae44f0f4133e66b36b2096a0087ab9a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4a053cfc787f850b243c0ea8cefe5ed63ab51680.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4a130d06cdef1c1b06d68a9184064d2679786bbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4a320359b133d38d9605337711d6755c2d85efe6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4b177a1828031b8d36ca063ac4d4806a8c1d2b07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4b5993299302fcc5967532177162917823a8668c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4b76ba0f22758f4efeed6519e0ac67d99a163286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4bdb86ee056e5dd26b162dc9fad19ae56c420a34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4c287fc9ee3e7378568ef55b930203c80360ffe9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4c8d74e69bc66c72654426c70f59fcaa9bfe4eb4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4ca215f36471e91ee0df4be8dba421a0355aa9c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4ce46e1becb8504dd04f6404bf5d2f67b2220b1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4cf0c924dd8ccfd6fab1cd43b57c59a0ba731cb8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4d7e69e434d1ba8db8c9bf98eb0de06994a28a02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4d809a1b4f78b39ee785d4e808d6a16a59270061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4d8e1a6997a6505101458e396be915540a562f89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4e8fb3f4c79f3ad3592b8cd7c84b8d5bbe1b955a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4eb9934b698f58c79d6f3a8f94a57a89f2564da2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4f13c477c6c0abf5c479dbb9188b05ff03589199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4f418ddc19733f079b532a27879d5553655189d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4f653fec2ddfb6fcc664b029ddd854e317e525aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4f6f13fd112a8e6cfbe5de394dc18451aa0755d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4fc06757cdb1431f1cc5415089432bec0e6f97a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/4fec0bc802b2052946d2bcd2cc8766f82bb2cb8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/50309611c576b91d0d6bd9678161907999d30c1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5061c7c8142fe647ddaa5aaba896dd74cceaed77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/50e54f87ffcec2608c58b64537213bfea251c2ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/50f5788f0abbc445f6b159b208686eb24b3f148c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/516d04ceef8bfc0b931658a899b67bf52cb6ec1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/527b17aec90e4744771a803dc158260923977be2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/52b7432cf9e1dd73b7e8a7d542b056e4b48af5d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/52cda9a85968baefff5ffda55e29d67b7065d26e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/53061677fd2a3bac59f0cf07e43dd24157abb65d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/53800ca3ce65d466e46399afc18d02d1a5be5886.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/53822e75c4c22b0ab671fd0f58b6565c03ee07c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/53d1d8d5132de53609937d3c8309fbfa511c52cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/53dda629313fd0b2bb0bfb0b54621fce54bc05a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/53efa661f4d77f1555d4e8e70f87a50a6c9b9d92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/541825fc224e6ae44a3036b4590512b031ce6b96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5435c9ca796c5b7398dfe190db7a6f9008d31f3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/555cc8554fbaa9282f32a1950f4a014365478bde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5582fa32dba4fc2723a5e7737329a7ce25e251c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/565f74c7006e2ba5bc30d5a4918ec6d4c1e49ed9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/567912b85fbd72aff5b435182d12800b97d891b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/56c185dec5ef37ab4e7627e606cefac13bbc7c7b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/56e7923e28be75f60286176457ad17b33083ceb8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/56fce7fda38660730dfc83dff95b090d62763612.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/57016f4dc8571576c5659666b183198434b56e6a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/574faec3a68d560f61cb06c7c09b15b9c858856f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/575dd4026ca97b5350e0b2c6e87a2302e484a4a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/57631f521d6c23cd601448355669f386f5805c23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5775aa48bb2566c2442d6add81724570864349a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/57acf87815452590d8a735bae5cdff33a020c060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/580de1015aa29e7d4662849a099dd8aa323042a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5841cb6ad2101173be07c4a062cd38697f86a021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/585279a6d21dab81573dda11046b96a82607716c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5884d4861a8e0586878e678a6f0cfa2d456b5c30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/58a6417092dbac8098f2bc90fd0403be4a86d781.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/58b1bd239ff72924f5346e7fdfdcb75381859b64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/58d9e5f5c1d47d363f6db6745280c5cf322d6314.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/594bc2662b168aa97feb17e12a9fa68abce11fff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/59717e7dae1014427470f9622e51dbfe1cb68b2c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/59b7376cbee69aeae4b4e39caf507ff8aeb9bf06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5a14ed4d7e437a9ded9312fe239f54843574485a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5a3f3aa145a3c1bc2db2b916a7d172fc3ee092af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5a8feb36393eb570930723e7d8b590ba754112a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5aa14328a3bf8480c633e0ad592c6f25450e479b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5ab3dde49fbd80fbaddc8471dcbfad9738bb9e89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5ae105ef74207afd8b7270db4ec315658efa0172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5ae400e8dc103c6f9628c2c79838e341bb0fa877.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5b0324db1ca22b2ea0ebafc38d7892779edb03b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5b14c86dc8823922ca0db2d0bea9832e5dced839.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5b3aadc803565f0b2b97df1de4c93d9ddce00f8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5b4724b379aa276d74d4fae9badb87c7ae97d8bd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5b76d60df548a9eedba4f7759970a0bd8d9e7a5f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5b7af97061fe6c7e213138e64e7184f92b2d05a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5ba3c83f0bd62aa0ddebddb2b149dacdf56f60b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5bef18beebdd8a1ab0b594245be08f10f4a885eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5c43798a25f3b20038312b4dfc3ca5c957c7765b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5c4ec9956ea6219ecd4418479aa1734c2f1d23f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5ca30f74fa0c953528e80b389cca4315e5647728.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5cd98bf7efbd5dce7e209fe33919c7ae7e9ee512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5cee49051f85e0bb1c0db1e6ad6dfe091dbd8254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5cf803e40914b8a83f369082efc69bc367472d33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5d0397fbe369de796c7ad09676e53264a5bfbdc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5d19a46abf3367bb7ba2636a6c45b6084b9f9330.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5d5695a770dd9c711fcf55d53312fa7fb9b5e39e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5d59e75d9f537fbbab595dedda2daef90c116ae8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5d5e62cbb0acbbfe2d7ea1ef0c21f4960dc66589.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5d69a2709b8e1fc6e833e8139e3a8f0817290a22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5d94883eddaaa111251438c78b40bf37f64bb64c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5de6ab755f21c4989600f267f4a5bf2529a010d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5e629cd947655b36d13ca11c695a5c847fc3c97f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5e74f1f3152c4eb30e850e2dbf6b09a44d36ec40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5f27eec067b7d260bb128607e75c04bf27a178ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5f3f54512b9d2b3e9f8ebf699b0ac36f4a45f4bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5f402c96aa5bbe62a02ba670d843e361ac4bec21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5f45c26d633e1ffa290ed058423e47b1cac43523.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5f524db6fb4d992a22207343e9fca8a775f3b22d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/5fcbe21e3acce76e2c1805619e54bdf240281bd9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/60058488f8f18d28935320059c483cf1cffffba2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/603f38502db49da08e3a406df8ca6db36c09bf6d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/60e423fad2ddc8372fc1f9cf4cea6796ee5c4976.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/61ad2be42c7d136ba3a9e038169399171dc35863.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/61bd2a70bacf12506eac1b44e3b24257f485049f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/61e866bc534bbc70037aee0a596a432a0f03f7cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/62713dc13a1fcb27ed8e16e70744fbe848100798.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/62d7e182dd1a969fabd4d4ea7394f6d090426cc5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/63854f0b6f0d111acb7336a81506ff6345f97072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6391804548ce71292cb349010c5b69218fca4aae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/63d0cc4dae6b8615405bf1c4ecc24504b24370eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/63e0460e307d6e771cae9dad1bcb3feb5a66a5bd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/64830ae02637ee18cc1aa7b7e122e4300f923c93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/649872c1f4987f034f672fe5afb9e2785c96e665.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/64a15da845f798122879976697ce911948a9bf6e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/64eab56ae9c488cef1d77a8d02cbcbf06319132a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/64f106ffa1eb062bae806b7438a885cc78339ef8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6522caaf220d9516c6f1dd2ddd5b0fa5d81c8879.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/65722e6aa5cefd89d1c7cef5cd6331b2843d8745.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/65c16641adbd15b50598045653eb672124930d20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/662175f7a27883a1699d0a6db24ec8a7acf04834.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/66328c3b9490cd801a6360ef7ca265efa6c5dfb8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/665cd21e0c44749480fecaa0f7fa3a4cc35dc743.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6684cb166e3a7d546141cfd3e280772102c9ca94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6685378f49d3aedc37766d0a464700dbd7895b84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/66984e389ac1b49791a5ee090f1b41386d940acb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/671e88d511403687ddc88d9e14af8341f817599c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/672d1e8132f99bdeb1307bcd0a7a7795d2cc5809.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/673048180048c35b4b24d68ee75dbe0c0e6b7dba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6785ac830821c8e830623959b4d26d830ed827a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/67a531630f16f5eb8ee6c1c6a8cff8512a2c54a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/681344eba7abf9af07377f557e35b854dd2a1fe2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6858401f27026e556343f858731aa251f0ac09cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/68643078316ad98e14ea48d152fd22a385838f41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/687d2cb85ceda83b207ef9ef7c9d746bbb634088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6886b8af2fd088225f39020f5b168b71d405333f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/68aa0a0b84f9ea199d5ea488e60cf2dde4a4bb86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/68fc3fb425bdd895be72dc269d0c46faf2d39b31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6916e72bb737cf964456191089f9d48dc08779c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/69392094b43659cb7c2a7605fcbff398f1fdfe66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/69722d039368a1c1909b1a076930f52dfa1e432d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6982a0251a62396c7e70630c7e2d6157350d3df1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6989f3707c1fcd357928d45b2bb33ef7e32535a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/698ab1be89ff902119f30f7362645d266db9d8d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/69a37635ef5a5e24b218c1603d316ca4344a8af5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/69c41a71d0a2488800fe5a707d1b2294d577d343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6a9bca5732f9aa41cbc0198e01b22c17914bf2d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6ada29722af7c0f30841d74763ac4ed8c40db453.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6ae8f205946874316d943353c7700ec96b3a96f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6b2078b84f825a223650d5c3b4e87ec7dd74a9fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6b330a4d5c62ca735bc599ca276ceef99e244f9e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6b4c3fc7aac5111ea883e3acdac6aa6196c3887f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6be8fee8d97a625971db31d6f1af1a35a6256cd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6c5038588971f7a6cb4d19da28d5215d77981ad7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6d5a905fee2d31a1c89fcab984224698d363e1c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6d5ba2a90f1bc64cedf94245b42de010d0645be2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6d747b6126b6fc6abcbb70d000a8604edb58636c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6d93ee7b2d8132bc5931be4dcc466e666fa37359.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6de1789451809f3bf2f32ad9fdad0a05408bb69f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6e591eeb36d116cddadfcd531134568d5afd2ff0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6e6c0862b9834c32f21a4a9ecfefa08555b6ab66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6e6c6af44470e6c1a7364a4c34fb472a80cccfad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/6fa67d34f6bb6a652d45639bccb9db9284c25197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/700772495b20ccff53dfdfda218078f18652f489.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7020e4cb9ac0e4371d5f70190dc9d35e6bb1a15d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/702eabaf62ccc0fa09fc33a3bdae9c983912ae77.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7053b9661c1747b1fe64b998fce502ebae1f6c89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/70a542f56a541a45cc874a14f74a25669351001a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/70d731e13374edc90d2c68b41e218044d5cd8b3a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/70db85e7a49100962d94170dd634558ce5d0a575.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/70faccfe4999d9826b3a0edeb7461ee3adc74c82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/71223405293a783fea275933953e18ca4c4bfab3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/714a50ce77ff0e4dfad7e16ae9b46b25e18f7e75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/717454c8ef984022fec0126a17619a83a5031086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/71d168d4e3b7114a3ce5cfe0c628f4ff1fbb6fcb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/723f993ff25ae2636bcf02c51235615aff01fedc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/72635d10bf3a6ddf4e95af95a17d80594268c2d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7263dce441c4cea9e822a8ba1e6b32faaffe3dec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/727a34cadd77f19bda89b85bc132ed751ad5fb6d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/72b89cce36a1f8a14da1a07f7285f5104cce9fc8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/72c3da6fefa0257b30c3a716ba67c2a3c08d6b7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/72c8fe72b90b919c5ad78212641af5131692e352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7301ca984e3bf0b973adbb8aeaeeaa695adafd5d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7349c143186432cd7e49445dff9818e2d4ebd9f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/737e1d515e9633fbba23382c27132dda26c1c73b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/739e64f6271c5249ce002471b102135f5cd1555f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/73a6ffce4fd18381b8b86ed1cf11a341bc3f6d55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/73d44f2e1cca1a5bda45c26a2d02bcd979302699.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/740dd960b6961a0a4f2a8415986259aebe467e17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/742dc75b96af57adfba60c75b7b8f3591dcfac3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/74513ca2fd3b02f4e808f651d7651038f6ac8528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/74c7ea136df44d1a45d2f341883611f5607df1e6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/74e5d2aa3267917d1ef903e86007c0638d6656f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/762b6cd96109fa023948c5f1c52cc41866c1292b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/762dd78dc644acc67fbfc39facc7f9d1d6a78ac9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/763b495ef32a1027d08031d45a961f0fe6c60862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/765b98bb6e7afa7fd29083f0f871e91b83f62555.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/76622fae8d28a3504a8815ba17550c1f8fded1f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/776375fb060d0b291da72e09a1dae1fb71fc9e74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/77980fa5a66f0ad3b9ceb717b4763b0abf9cffac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/77b9a1f5162e544d9922910c6fb04c3dcdac9064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/77c94cebb81bf4fa052dc09a46c98eeb0a085d42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/77f1b2a89fd1938823f6fb6f1a23ace819cf111e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7870116d941a39cccfa818331f9f19c826d50c30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/78862e28268dbde92c1276b0be80622c6bc69793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/788d5e5a498dee594e357b68b40b04d19fd193aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/78a7a14ab2b029ecdf4b53ef2fbf8d3452b6be02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7a1dfbad7df76b3c09e7b653f9d905f5dc1de8f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7a7a94f6fba004f87b080718f542fea7e5d7fed4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7a7b2bc2940e71255484d525b2efa79546ebe306.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7aa12319c83cc04cede0a17fdb68da3ff655eff3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7b21b2fb339c368707fd2fb253231102181f13d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7b575cfb09debf7d277c710ce974d723c25a3182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7b6bf1ff41b67ca5bd2020db4afc08abcc675573.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7b8a21e71ced7f07a4536d354682f99fce492a36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7bd324a43d3fce978775b179a8b496398c372b64.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7c31491cc84669810581a9d7091aa3cd0bd09198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7c4d22e844eb8ec8a33e234f74f4339d4c7bbbba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7c9466a04bf5575960c974ac1c26110439709c5f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7d0f2bba2732076b9a7fe2bd71eb4111ca263ab6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7d66eb7602f6c60f5a3ddcba4ea08d232b11d237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7d6ad9ee133a7b27d2d721cbf7632b4983742064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7dcff177e638a68f29924bfdf4250e11b37e2713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7e2d6af2ae99105ff326cf8541e1f438437eedc9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7e5ad984cbddfd8c80bdd27c42e6861b81386229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7e647ffa8e0e8b00f310212a6cc7eebb78a6d9fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7e6aa25782ba462fc1ea1642f3e42cd2e33360d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7e7851a74683d30665f6172c3287e162b7b09fb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7e94fb85c2a9cb2cd28b130ec98916f703dba07c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7eb3555d3a6d1e2485e34bc79ed985f032ba5fc5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7ebbb41adede305e0341189b1a7647f732e05c87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7ece8de4e385876ba5eaa76cf7a1019c849eaf89.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7f84d25f3fc9063027964ee2561c7f6462ceefc6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7fa21304508a58ae3dc29313670cb6af2c87e18d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7fd7a1d2bcb840519fce67ab87951e16ec04a082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/80e7da462a8a0b9bc709cfe7ce773ff8c82ddeda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/811b265c7b14b714d6323fe30312e628de841df4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/816c2812d22d16556438ee99cc018346cc55c3fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/81926771a7b8714e4430bb91af5a428156c186dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/819604e7170cf1164bdb702847314d9ec8391b21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/81b1ca5b468a3a661c5f810f224935a8e9c5f89a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/81b7404beafd74df2b3a4840734ed32c7135e4e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/81cbf6afc8ae16b5cfecb3f85c6248fa781fba37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/81df64a3c664a234b406f088bedca3e01ced820f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/81fa877e34bfef0aa4190b3376d91e65a09db556.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/82146a428517200f3cf1f31d8711d579a0e008bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/821efb0d566bb4e0aba553efe573f5b71f63bb35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/82b42dced62a9c977066be30c8265675f2c12dfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/831d5137e4a0781da1c4c17a4adc7dfe68018c2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/83ccf82018f5c095c63448fbcc561338f052348b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/83fbd6d9b78b480ce875101d3b7c5898580789dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/84095378b2216f9a59d76fd0092fe324e6616722.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/84537bd09dfe719c7f957f067942f003057d3836.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8489f9fb3e1648cc551ff487224dca9acd8812a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/848ec0b53d856c67ed54ff8885c454a8ae3eaee3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/84a5b561e0717fde3d7b5ccb32718ef2965eadb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/84d04d2e031c8a256d6f0a4eed15e3d910250f3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/84d59694ba5a8b2d85ade6365c0cb80ab41ab9f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/84d9f5c463f74b2480583d5536fd81785266fa90.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/84e26f0d034cd21d2bac522d05fd35fa25d0601d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8521ebc8907dd0c1de21ae574a9ff6f11c5fadc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8542187a946255a5c590a3139dc0004b15f63260.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8580b8af790537438ab894c4cf1d87352bff5cfc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/86191608ec7185704f6c7160be6086057b180acf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/86970a53975d8330c5229473f5b87961476ba6b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/86b0f33ce62cecca6b9f0f08c6627d8c902fca4a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/86bff75060f7395735b6bcec3ae2e7912daa1905.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/86da923c055d8fe9e3b463abffe64e2ae239b047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/87359b36bc991db82704ee00a666f5766eb0ebb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8792c77e0840d6e3f9261da40a25db96d57def2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/87b490ccb9e95f5f9a98ee151feb7c272e13cc61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/87fca9cdecd9801b646c27aeb0eea0ee8b93f801.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8845f1c47343abd2132220e9c7d59b09019b85ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/886db4a347b2c1c06105a8a175d6bd304d22ba4e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8a318a297b70592bca7d02a131830086c0cbbbd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8a8d562881f415747e1dd920749498afaf02b806.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8b21e4be6b0ff97f3bfce1ef982bc1659b2df291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8b3d4f439f91afc485adae0041c9ec29022f25c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8b5b50d1ee0b096bcfc66570550c689973fc9c8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8b7b7678d73b3fd41df46a7eedd94d8be9936dbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8b8b5b051cc24f56d455c24bdcc5615e82b124c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8b8e6c5871930c3585d048d10c1610ef3807c582.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8b9906b49dc4cc818f0264e03f7fa0b4ca9c0c8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8baab8ffe78c501864304e95b666581581113fcb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8bf50b33c19a3ed18705e9d73b54bdc57bf3a13e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8bf6ac82d52a7825e62e7e623ad8c47514b195db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8c14943776f0259b58759061745fd6d2e4016190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8c2348059b190172d50cd2e5896e86fd1e7f0aa3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8c8238a25f7a652523381c4818973210766b3426.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8d2a13de407fb27190d5ed645dc0754966ebb29e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8d3f7f0f73b487f0f08b4c3925ab183a95a2eb8a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8d4db29de36916e0a106712e65a21914e3f2f6d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8d88e8dfb9ed48cd07b29a0c46c5f9351ff4f265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8d8a4e7ca778668e40c721e90b7595ddd678a9de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8dd85e701bea2932be0ad93123b772da693017f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8dfb75815099b1d1244ad16e83a2100759be5da2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8e6e5d7cd8a755348dc94d1c44cefa43c14588cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8ed7225b71d9acf4560ad8162fd29460525d6e9f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8f5756042cd688ad41bc8025b95ad098f902b18e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8f7f9c43928f16aa1aea408baf4358512e67890d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8ff33437a7fe4424fb0474ce53497bbabd41faf5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/8ff57bd0c19efe95a64ca117a32ffdf1cd7ebb09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9025d425f41abc0e79be837ec5c14c587e31402a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/90d09025623811d78a39269222f63212c636a70d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/90fe77d32c19c1d68058b1d585514cd93fbd0079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/91beb0f40158828dd8db79df0fee06d14c388029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/926dae6709d637c0681fd96e0d045b8fff67d427.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/92774dd4e5fd653997ec014f91e30eb8e816fa55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9293f1a17c5a4f939bb3d647698f217b0de22700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/92c3f7da43ee824ebbafc9947aebebc84e764073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/92e217662e068c2da4793d4cb442178ac17fd92e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/92fefa72da4a880a2b2edbed6414b1343133f327.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9307b2865c913ab264d4d6b5f99624d4933a3135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/93471c26e956a837f96829c61a1c369ea9196594.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/93a481fc7d8a6b2733456a118696cdb0d059b6f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/93cdb083d84cdb19e67e112eaf19608acd30f943.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/93eef52cf36b1034ea15e51304dd62a4db983095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9422092e66c493b43858f88ae2a0c5bf9e74f586.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/944061bc7fcd55ac4bd862d028cbb351a18ba187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/944f2eac2c030ee7df79ea31037736a27be60322.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/947a44c52270ad580a1e25fd916b8b224a1a6ff7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/94dfe347aef7d6e1969229ffc693fc072c587294.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/94fc839bc0caba56e5a9c33d7d191ea51165d624.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/954e85c0c405acbf49036f838ef1df99ff800ebd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/957d1f75c82f7d9a37e637f7fcbada0c854fa6ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9585b6d05dc98a5cd5fddf2ab6ad80643ddf8af3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/964e783f9edc05510bf291c558097a432de020e9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9689cb05966e00e19c476e8ac8e2445f915e2076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/968e02f18a4393338ab0e064a10d05f240d2b15c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/969ac7df282e5cbfa6db15c3aa57d99413e0f07d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/96d088a5a43c0b87b2ff13cd1fdcf0bd6fe6a1f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9744d8c2a41dea295dd0683a07aa17fc3d0527bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9758f7fd88ca02c431ee20df1e0b461c29c32088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/976ef909f1fade4096a53110864f1ea2fef653a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9772467e93e3741530e8a822404cb70cb92225ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/97c352545b544dad1c47f5cbe0970f0014cc7acb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/97d96eddd2570508e4f8cde408376740ca0b55fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/984c66a2abb04e5f090ea8e10344815d36a5a645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/984d3053a47577b7c9a8f65bef57d717271e9e40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/98528af12522a77425d820014e94927d6e031fa4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/98a8036ad3bf158b8b7853fcf2a67a4b3f362058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/98aa36790b093b9a157b441fe1c5edbef8485375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/994ea7fd19a0731a437a4d68a67ca8bc255c6e96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/999bceba6b5c8824551799d26615c7c715924a78.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/999c2a2da0a4600e70e06e0ef4fa1cd03a0d8be7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/99b18a327f8b94df78132d37d38bfab40839569d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9a24eff0ee09b5948810a71b5f5f2acde9c5424c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9a43e93e8126d2114597736fd5a986bee58022f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9a53902c62b67e08b713127d3e2127471d60cc8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9a6dca010db22f80939fdf48f22f4ded63c845c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9a90ab52864460419704993e82c1824bf4d52e8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9b063b25979d3326e1e312aada0f9de212a4737b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9b4d9a17246d9f31fd289e7806e71faa5938ac36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9bf659fb10396861f8a4aa14519f02d98cbc993a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9c1e07fcd1076c529bb2f0d6dc475d2bc53af36d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9c46d704ff3f07db46fc440ac3918048ab2129dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9c67f5f684052922b989bc43a733312cee4c1741.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9c8e0d9470d03de59628e0dedd5e849ae1071ffd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9cba5c563c780c8cfba976241932309db41a7edd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9ce8851fa449266583364b6529d9e791cc418a24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9d2e9500e768edd7360bd29b8968a468335dd725.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9d361019b20d4628aac62c7f8cdca328df6cdd5c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9d781cc8a0626d3a9aa8b9e8e501dd53a08ff290.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9da4a0e7a4fbdf0b81d5cd7da59bf0f207aa9921.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9e35cb0dd6fe2cf58c819cba1bc54c12f9b5bd57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9e3c4423f3a1128763dd42341ebccbb449bb3cae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9e45d4b49fcda88a7642a3bf7963e2fc786e747e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9e507728845150ce338ff468de7c593864edc2e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9e5216b71407a6061d46367567b3886d448a7d97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9e55ec66958f0c68ae9a8e5594354692acddb0ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9e71b360eb986b9f1f25e107780cc9fb7f27f691.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9f127f4fe1077f4f83616aec3f514d951553af6f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9f429dab94f0f5a2aee888bf4d504560bfc27d37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9f4dee756ad9a064215e899531afca79fc3d16e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/9fd93f066f0d7013746544560b9cb12d14879bf2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a03c3cb1a063cd6b40afcfd01550344634dee611.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a07c4f30f22281304a4feedb5dfa59d569496131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a0dc225f3bf20906a9baeefdc2e2c835df111e44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a0f961ecbe2538b8cf132d8af63ff7e1910a52c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a12295b6c9bf5980517bf09d11ab5b1a93d597c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a1486e30c265b7973d4b0e700476bbd1f32b3d92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a14c58b7afc2ce8f1d93637635fcb93a407606d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a14c61ee29fb6debd11be7f67b4358a7451012dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a16383ef976759eaf1046e4c6c37bdd194124d68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a1e608fe50cbf85fa4edac1840a16ac077237c51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a2094d05f4927eebd9e11f54666455a5df2981b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a22751b977d0f45f8094cc2eecbef330624b3345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a23d511a321223c49a2695fa957acbf64917a5c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a296d80705503f261ebfa7619e438d3af55dcda2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a29cc182702a97fab5dc3ba90f4f3d4ebfac197b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a2a97617da3c2a0e527ef48983242dfaa18efed2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a31ba4be61dce6c6847bf0085f9f9865b8846214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a324c87faf47a73210e89eacd7a2e789d325ba41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a335449c0fdaed44b2528ec007db0a3c92e1186b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a3470a1056a74ef4dfdfeab46ae2fa432307aab6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a348f1866fcfa648c633a512f099e205e1019a4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a3a40f1e20e56ccbd64671560eb914982a5bfe1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a4426b81c336c6b914760ba561b156fbad008d86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a49f8591e2908d150a6e0ce70d42db835ddf88ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a4b1cb872cc97d9448f752bc05a1cf0ceacdcde1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a4b938fabc95ed422ec0be3945cb9239a36ad20f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a4ed34b39514dd2991d03602bb6037e64625f8d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a501e319a7e47e3ab4702911d4082bebda9381cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a51c267b4a50da75aa39020c096e6c166a97c432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a5b31102bbb92b87a2a555e045f15c1ea8449a53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a5df978c1bb273e4f10f5f11f9487a90378ad05f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a65f74104003ff0db4ae32108465c0e434bbaaa0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a6631abd03ebea17270995929afc7c8355dd763f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a6c7692059f97268420533f7131d6c341010b190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a7053bc2a92bf562cebfcd173e9a1adea9c802ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a73a7d53572b31a5ab30da601ba20450b12a046b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a7531699b8d1a0d71e2c1dc80ca16af8451b4f46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a832f415c945c751a3c5c9b35ebe0a8ad5a65872.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a839546afc97129fbe9fbabad4db6500b0ece6e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a86ef8a53f9bc52b98e00ec52bcabde9c6ca7f67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a89cae54ae84eae932765c2b10ce5b424826431a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a8a5a93ec1d6a0794a30b237a5adc4e7d5aff8d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a8bd27eb7ae46baf2364a09d74a4ca58f13ebdfa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a8dab2660ff852cd2fd6e35fe640182b0839c04f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a8ea700a370e2b2c86ce0d9459c8aa3c4ef3c47b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a8f1df5c9aaa061309396ed5724253916b8e698a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a90dcd808c28c3afe8381e13f46f552cf6a4669f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a92ee6e9a4ac2be03f224e88f6947d097536b1f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/aa3dd44b3348bd86d2a6925ffe76eaec353bb012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/aa9237bc2ffd48dd088ace871a5cf607fdfc9cdb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ab066b9ab61cb07f93e55408f21dc6f9a6b30ea2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ab086e45a68d1b72847b75d42c14957ccaeb4cdd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ab4c0e50a15d48eb4372d6fde198b7bcabfc61d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/abfcabe0e1456468268ba8595bd9f6298339f5ae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ac1c4075cd46a181cb84b91248d6aef7af4276b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/aca32c0c8d46499e7dc1a43496cd63e845c1c5d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/aca7259087ce27bb7b1c66bb399a18b6f957e0c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/aceaa57e9046e5bdf13f2e030f81b5c07151ab13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ad586b1e85a44a4b1ec9f408e88193daf9d28375.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ad748286fc220aa3f14a8bed9f7bd838bd24c285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/adb762f3d25bda28ea4f087570047f70b90cd458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ae2b03448cf680d434e489d1a6d5f339f632a462.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ae361179de050bc601a295e7f235f4e5ab5d3a8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ae47f7200f490ba95689538376ced39fc40a01af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ae9116ad88b7d320c7d680731edfde7ebdb05065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/aea03bdb5e6a64da6691d90f692e865c00cca3dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/af3749ef96989ce4b541fd944cd76b10062f2c34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/afae4f2a9c796468cf6aae54826f00ec0a77266b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b0e5b100cc17f327b31387b60d106a693e24051f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b1294dcd8662c709cf42068cf206fab02ac1cb4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b1612f7e0926863fc1657d01e99ae2a7e07b4187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b1b8be2496510409eea59fae08ddfba9116f0d2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b1be3390cd25cb1c03401589dd5d3d5ef7590661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b1c5ed34927708dd008c8e12b66fc4fc43037421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b1da2ff1fbbece3b0ada72a453dc0a9c23e94e60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b21e1d49eaf50effe4b66f8cd74f2c98671bcd31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b264a41946d8b387c0a7bea8db4a867844c3bbc6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b2e64cabf73856313a3506511cb2dbf4f70926d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b365e7a419defd5c1c8505e3b48c457f4ad5e63a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b3e613061d149cef882711f531a12a624ed56cb9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b4116d3125a002467fe2baed354842fe82ee933b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b43487dc67cd8189fe9d2d5e083402d89d9a4680.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b485d4faf98020573c648e75da336a3ab2bab02f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b490f90e7af96ecbe8145cb9e4aee3d38275eb48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b4ef905a6a321d6a8d239065816d53b02c9ad666.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b50be6bf9e2c0cb0a0c9f2f3074cffabdf08e1eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b54a78ab61c37755713491892d4eccc15920d8cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b56570f5c453e6a2e713e52502958738fa2b5e8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b565bcadedda12a9088800bcb331164ec3c959da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b5dff50988a2e0f3455a7835d5fb47241cdec9c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b616745cf8d8db9f75e1ebb47940a07f9edce791.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b6393f6ef782a01bec484e1eebc0eb3136aaf2d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b68fa226340ee2adfd2e2915b3c543ab483935a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b6924947c2e6fd5f48d5560b6f0d72afb23df7e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b69d400f62c00d155e926457f2b60a50a5ede66f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b715a99f7a5cee508765d82e2833f113a82a37a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b79ab421dc370db81bc1a832530e51cac23a570f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b7caacc519361a169b33f2c4c52b698907bedb44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b7d0f24be09f2149318f2f5c9f70bdadf1ed6825.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b7d3b225ba5cdf853d11ea6e24898f5f919901c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b817e6d61fe221711209fe0ae47f5400e1394713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b87947a98eabd3db0204f2adfc7dbfaa20ce2908.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b8cc106e4362c25f693f28074289570e3b4f924e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b96608dbe963a122cf3393bc13d826f257ffdfab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b98a98ae1a7a749be2b13d04c8d5716b26f3640f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/b992514d28fdc7ba9a3e2a5a95bea61f2b90aa2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ba5f136b81dd1931f05f822f8666b819e8b25f81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/babeed4fd736ac1577171317f0a877f72c687ab3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bac36d9c22b001ed131c6509be0feed8ce33d9d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bada55cb95f189a844a6cc7da20dac3baf18805e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bb2c19ff1d238bc627d79a8b62d44a4d9137d7fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bb4a80894b6d9a0419ec410577bbe198040e087e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bb81b67be49ddeb0941c1b04fe51c867a6cd66a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bc0508e10a4ad4e3f82b429269549880078fb580.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bc0e784fb5ac669c3dea31caa78118031c6a30ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bc55f8f2482ccf5e9764e78e1770e58502914b37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bc7cfa9e76ffaeddcd6e0cd9928990899bb28873.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bca33ee7284d9d638f4292e82cdd383b51f0fc01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bcdeee64048a326fbca4cb11c9d369b1b78ba09a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bd04d26febce08b3d594a368663492208b61b1ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bd114dd2f7e0bf2d5793807e77c2fe8c4e0e461f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bd183f63a95603b812f65b316284b093f4d74dae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bd4d77df3df9bb784f1107d38f33681fdbd69ad7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bd7d860a77f967c043e097601300a09bceaefebb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bdd00847599d50ba657023f1bad40851386d2aeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bdea7cf7bf9dd7f1747cf4c9a38f24c53d1154aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/be1671eea37783cf5751c172ac523a15d5b30966.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/be33e43d3f67e674e8eca4344251765ed8036842.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/be346bff49a6901e7e976fa3ee632baffb369238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/be817e1a239df353b71ea43ef69392f8e5a83e93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/be8f7ee7f9d18985df58a7a72d9cab2ac5195e1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/beebf0d93067fc4bf5f13fd96493c1231e89a167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bf344c413689b3609cf42bbd785fef11e54dfd6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bf54532efaa34a16fff76cdceb9db293e6645266.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bf5dae41ad18e5a744a5be814ddba105cdbd802b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bf7e8b4ba2e7dacadcae52ae2386b9bf1d0f39eb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bf860f97b0d7e53b5bb816f2d57d56d4eed4966a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bf9c22d5b0e5df671f1367397cd4d51fa6641bde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/bfd39925af7458aca9177d855755500cecb905c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c02288bf1dd84d01c22d1caf200f00cef3e59452.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c035f6b05194162af14d34f441458ee7a6073e6f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c038635610f23d8cc9ae6688940dfcccf5494ac9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c07c37d6c8937515be688e7fe46dd0a8f9a0c619.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c09ceb8f1b2b73be187ea0d2ce135d233defd41b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c0a1a4699a6508151ceb25d97f242eb888e5651f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c0b1be51818ae2173adcce9f22c4e5ef8d82820d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c0c5b90d35f4ad69b96dde31fb62f1baf0baab9f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c11dce86aa694d883a430f73b9b02c99ee0357e6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c12829f63e70a257e065703a620e3a53d86f9d48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c15cad48578a8e71fd7aa78204981d7c93fbc244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c1694c14d2e240eead9b36fac5cc61e7b315b9c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c19000a889fc3ba56b208b48586f18e2be52f990.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c1cc76f3cdb4626f9555c00e7e1e008f1941b05f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c1d683ebb2e274a567ce34e27128c1129032ac24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c1dea8c732adab08d471c224a2bf4a9ae4803fa7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c1e69f9ccd7ab93c1476da69eb9a5f1439d56dec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c1fcfaa3b62d81c786d3ebc48035d4026e12b454.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c2095e9ca939d75f92c571248199e64b81b7caaa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c20a5e8f390ee4d0195bd70c48cf78d198b14835.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c25c64b7218dbb4213be87920f605a3e64d85263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c32d3064f3516dfc1eb172031989d0e3b2b53ac9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c393547e5c1413a257c29afdb0522829d9b68ad0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c3ce001c0577357192e5cad553a8ea30e7238f1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c428340ee9d2e5d7048ab3f1f60d361abeb43574.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c441c2b7b380951a6840f2ffda7090d5199aef04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c459039b70ccbd76b2d8adf8e02d82b8be3726bd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c51c7b3c23eafce1c1d628084382a0af1b594aa5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c55899838c8f10c772cc3335a4d5e569f2ce3b87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c560cfdede5d9258b843a218650ee93b0d361a62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c658bf4d1984f25c9c9fb1e799bdec547d5eeac7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c65aaf759426b8d7b0e4100dc34d2b76eb0692ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c669208eccfe4958d812e2d208730612c4e38a69.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c6f0846c8eba41e35f4df3dbfe6782dec3989ba0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c75607c071da6e5eaab7142c46f2db3b870cedeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c7c32e8bf5b192288b6984fedc709cd1ae0fd1c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c7e05deeeeb6835e9a78cd58f29af0e129cfb20e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c7ec8ec46ffb45c61827e676183d41f31d7289e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c84a8cf259ceb0f87dbaf4f57d7f18d982a366df.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c866edae53d2d32841060aa3be35ce0c2d55a9b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c8b144a210b6b03cdd5e0a0d230c1ae600e80f68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c8b5b896cb05f126c5daccfbb9f2a71511f08e19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c8be273a6b8b6e4af126921ea560dc2e7499ed72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c8eb6510cd9b38f2db43021770f27bff463f5f76.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c8fc78afe5ca387c28bceb1660b6a777fe586e2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c9fd0f95c3f55649a92cdccc165bc1aa0cbf4f3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/c9fdc61a2e73b1d1d7f28b7d7bd369bb9a7c096e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ca8e91afe6381b61580d35eeb3e8d6fa8cd25a9e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cad83c6cf9b8bb5cbc1f5471552f061035609cfa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cae903557027298259951b11d962c216d44a4f1e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/caf3cfd5f13e09d85a5a5abbf6ee594b5ec7976f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/caf8b7d481d8b6b59ff0b2d7eddab448c6e1a2ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cb08074a49e444229294b77d848aa920ce78858d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cb166a61090df67d3b2fda7af64392cedd997345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cb67fd6d7207d7efe20e86faba3d7b693931d6bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cb6f056ad207df9fa45b574d9ae1cb62ed3b9e97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cbda2eafadc76cd0de85f8717e2876ba7e6c7225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cbe2011030ce2a23b8c87a643209d614a4462b9b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cc2b481f83f143023d9815846901ad1b0297fe87.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cc4a52ad6ae03b49e2cc71ea82f1877938e6c9c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ccb1ecba85a88f5753a2f155fdddbf67c816b3bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ccd12fb68caf4043e9f7e3a96de4b61e2e687e6f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cce939fbcb8c280da875d3315224e1982c0478fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ccf00ae84c15be419ee8c0ef611447c297c6103a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cdf20c5fd53882ad71c1581718a566f2eabe1ba6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ce0a0080aafb260fb3b7886e4ff01381f280fa96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ce4b16a0c99989953062149a0e7a22d680feeb92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ce9392fb4a6b36c2e1a984ee44344eb816659a3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ce958f85c97ee0335c58ae54400a8f3de25319b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ceebe25c7560e07e3a55516ded0bdbb037e8d605.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cf0d537bf77c31e6bef9ad4bf5ae8d20d173486c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cf1dd81bf7355466bcecd981f11699508e500778.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cf5d00cee1f9dc5339568403e7b1c5937d88af6b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/cf850a8338bef3e7a66c7ecfef7a53c5202b7e42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d000dac5cd93058ad448fb66ee08a278b291ce0c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d05ab5017f2d511518d6f02b35b85d33851726fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d07f6d06f3822e23bc2b4be1b358de36e8cd72e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d0b467dda59fba57172f52dd800768b18685c211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d12149500b5594e63302714dca4de182946aeef7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d14f264769ebf4bf2ef73f57d386cd905e2d953f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d1613ebe741ca753b878946d32e223d146b0c421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d196f0e7e8cd8404ff173091680c125cc85d294f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d1a76471536a8aa0fd1158f2cfbec840b6952ca3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d1caba3bfffbb7f0548ed57b461d0e03b9eb241e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d220a9600704f9a2b8d5baad42d39438819e1cb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d2ecc0327196104bfdba1626557e4f88d2c1ac39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d37d1d39fe2da6427e7e9133f67e403e48278163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d3ace42934d9bbd97924d559bb3cd1eee0600dc3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d3b4d5f35bd0f48cd3d24f7e4f3ef19053ecfd5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d3e874afcc78a24567647422e48d4b07664cd209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d4759b9e857d3e44d31e31185ac8c3aa527ca1d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d482f3ef140de47faf836039bbf1f4605bd16f81.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d484a1801741d37b98279c202fb1a17a2e405340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d48980ac0b46af4617627f8a1b1ef6da656e73cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d489940da004e58d0db66d1820153b1b5384b29b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d4b61558ec7493385029dbb68ea60e8ad0d9e798.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d4b6aa403a72bb6c5df5b70c2e83ddfee71ed794.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d4bd76639355a2c6046e7f14dd6c08a1ef7a894d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d4fdd93121956c28382c66c602f722ed9fbbc9e5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d51821bf93d6a9dad6bedd7822948fe00039536e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d5465914298e37972b825296fdad6a22e8537c09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d5472d2fc885ce1e99a6bb5e73ded5299ce1dd1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d558617b024a7255a4db1f616f5f094dcdd02524.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d569e0e15bc928994035184dd163145331a0dc47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d589b6fdd49211ca566104e2252ef04952d0ae52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d5a66a57accf1077e28f61f94f30ec2c184daf33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d5d848afa380eed0448880e21195223d980df961.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d6419f805e8af1eeea0810762838a282b311f8e0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d6649e2143143d7fbd45d5f31764f0c807bcf6af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d691a2de75fd74baba77b28bc03127775886624d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d6959679629cc5eba44e789895a94dec50a8e3e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d710cf4ba3483a9fe74b9aeef3e8c21047b7eb40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d73d6ca8664dc500c5582d4db7dab26ef10c20c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d74334ed927c5111746e260732c4147af1d139dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d75353621e8fddd09634499486bb4a694cb8480b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d7544a5a32fe2a4cc5b5d5e0268f0628cf25ec59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d77fe301c3861cb8afc6203dd5e050307dc66ca1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d7a393222efef852cc70d46a1d06c68989bab381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d7c428e784f9e6863b4e4e92f86cbde85ada4707.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d819b74ec09a22fe2132cf77dab62c138769359f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d88548b06e63e8044b523049fe97080ce69befcc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d8d639009891fcb338c55890419a07a3bd430dc3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d9b21ffb76558bb1b24091981406513f239afacc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d9d2b7672938e8a7ee3cc7052e00aea034437722.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/da3302761874a90be92ee7b721599872b5ce8df7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/da34f0d43255e49565eb2917736fae6dd859457f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/da6b9605c26ca5549cd22aa7fddfd6fad21dac3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dad1ca379226e68560d2409fcf7c0b48e7ba034c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/db1097cdd0e3c0550e45d760473df677c641f5bd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/db1296344edf20d813ebb1beab30348850aa8d46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/db12c8fc27d081e944fd05764b42c2ba75b8987f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/db689998ca5f8b4747abb7f6a35e3d6ad888c80a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/db72055c06002f401ba8ba6e042ea3d906ef9b33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/db7f99550777f49efb7acd127c7e9f3afec7c65d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dbec281e5ab7ef5dfc71e0f72b371acdd13c27c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dbef078df6524f15f77053c6e60bf326616a8832.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dc2911b609766eaa5ac70e79871598e292f11adc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dc62a7e5520660348f570cdc3a2308741fd1f3ca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dc88c7497084cadae687b11e8e0d942ef29f40b8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dc9c7095908ca029ba1cb44695751dbf922739a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dcf71eefde32b86d3c7be00dc4146d6bd1fa7345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dd59507f93940764465c4497cd2fce3933eb53a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dd6b57b2ab09cffd8dabc3ba400c59fae9375876.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dda7357dc26b7d4f70b8440654ba6ee48bb8b0e6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ddb24cb85e9364a74aff0f9c4af98dd103fe9e02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ddef18557c032d306996bb6f8d135d786faa1cd3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ddf8f5ac128c50d3c81b4dbb746b2f0ed6dad2fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/de275bd7e42c3cea38cc67807582c291eb04b395.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/df09663147ff5212c69b7323184e0bb88b0e7b04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dfa19ff259c1832afd6ed56fd2906b9f3f97f6cd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/dff92a6184adc664e22ed3e0e7c8d10631efee4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e0114cec839e29a4a61db982d4a8cf2b44b7d77c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e0fd3488f2a02fc0fb788504fb67e1d7c88a87f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e13aa09d2bf3ed1da63df37d872e7e7c1e9b95dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e1791aa1c0eefdb9b1552d4f18b19ee4f2edd3f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e186e2cb5258f7c273d4fedb950404a2393501ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e1c927c8a07d79a66df59b09c0c33425361ef8c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e22882ca610e7af26de2b2d9e1ff63db6a550c3e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e2417bfc3b398e30ffdd8b3058a90a650a3c0082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e27423d64a07afb50275e305141d94e6ac12aeee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e2c945443cf706fc961d84748b8ba7c15f205a62.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e2e6f0b1f5882fb8702dd29b78ec38cfb3b43717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e303890db28c723409c3e23eb0b95a7c0c9d4f15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e34faf8b8caef8022d62dd0ef26de07889a342fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e3aac251592ae4593e6fecc19f020cf61765ac95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e3b4f72467659ca9b79d77e0ce9c21a14b8a1839.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e3c1fcc0bac2a8c8489294a1158f57189a8d04a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e3e259fc1d23aed80906e764f9b3d4cc9a197a98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e401b63be6abe22e0dd6e21bd2b2318144532537.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e47e2123351be37b5a36c7a1b627bcd39cdbb43b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e4f3250ab543f2de3658f76e67de5fe94b9ad81c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e5040464515d32def40b2c50ab595266d75c37af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e511d31aabc737ae0ff5bc18b4832eb1a9eb9ad1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e532c28d1dbb9e07dcfed497269c7a793db30396.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e568c23e5510cbe6f034821f846d1884164824fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e5744361cf4acc745edc7c6e0c4fc71cf5fa61da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e5da705065a2094d15b6e3beffbec548f698de4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e5dd4be7bfffa296f52ec1fc5e3a8e67660e646d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e5e3ef8247b0ce6117ee692a9af0f855ff51ad26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e5fb812432c7908d61366a26f97a59d22420253c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e61e605c00368cc2806c64a74b7c3069a80777aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e625628359b3368e42a63b47d4cf3424f373d1f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e65a9009e4f3e279dfae95800607cbba70b792fb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e6a555f6fa67c7ac8e07093feb5eff53bf12714e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e6ba8c9ee21bb22a0045cd34111b372d03138369.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e75affea1828b79445c0d5792f86c481af817b36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e8c1eb8d01b24a8577eb54ebbd3d7b130d00d848.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e96eb5c88691a99bc18a7f2e5f38677601d99e58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/e9739e1703215b5ea240e07814f3928c4b89703c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ea94d7d01e3aaaca1451a9487187ba60c51862d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/eb3b87115d1b0477917340f6bd5819800138bc15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/eb91f77b435dfded6b95e7dfefc31bc49bc11c96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ebdf63bf6c9972a5bc9d9fb83fac8222cb1b98d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ebe9355da998f4c290dc987323320805874dfaf1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ebea7ee64ff827e51c16a82edff79f3cb68d8ab3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ec1fe039f5ac9b18c4cbd4f7fed8222b0f856972.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ec2961437898901ee4187da6946bc1b22e8c9232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ec467e55ca40f10c2f0e0f13dca37c88ae9d3ecd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ec6041abab1de9305aaa3e19307e495f23c5738a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ec70e5f9b81be0ede5c5f1368cd9684f86eedb93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ec7f5b0be973c793fcde706e9b8f2396130b7573.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ec9bb5397b11a3a8de4470a1014a143337b18e67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/eca79fe2a6d2010d549b32e9f2122ce2e5e95cd3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ecf574f0afdc78b64f425176db8952a5da1b374c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ecf8e0fcd0f7a541e3616ee23a3ea5b2c9032a5b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ecff721cb6bc8a755764fb34cd8e24a45de3ba7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ed154d553541ab86119041c5893cc11acccdeb0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ed2179744589a28ac2e8518599a77149e593639d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ed78e997ecd29e1bde21cb237c7ad96e061c107f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ed7a4e7b0dac303a1f76bedd46ecb3b9efeaffe7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/edd236cdca762ebb5d10b273b8350d61d5f47bbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/eddfb94243e9947bfc9f0078e08fa6dd04edae38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/edf14dce4bf2b1e9d52a0dfac7ec2775d3b062c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ee25d43250ff0dae6b8aaac4e73fe0fa4a9eb5dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/eeb5f5e79e27a81d9660d4d705aa4380fa9c0910.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ef136281f02ee443bf1c8f91c843bc304256ce72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ef17f3e4d2cc00b9cc4186470ad901ab77ad7b28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ef60386b9930c67aedd2ecff37a4f6836c0411cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/efbdb58afb70f1904c4fd3f05e335f5b4b2ef3d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/efda9cdeb175166032c6aa05cb892b2f27080e00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f011b59663789c94650826d84fbf1093d660f0d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f0501dcbf4eedbf67c955398ce844f10f868c8c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f0b006ae6307bd8ea292f774490cd3566cf08501.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f0b88c2e4e369e5478be6b1dcc082f9f1dba5e71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f147552c178162cce62f09c8a7898b7d059d579d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f1a4b8b2278016cb5d7c3262511c0f04f36289a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f1dc42767196acbb71a32fc45b2f272104145152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f1f0644c4bf79bbf187c9d8bb06ab8487fda664d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f23b274fa6bc372de2515e73cd2a929213f0f0bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f29580ed230420acef8b719f9cd97dfd82f199d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f2d05ebf90fd3817d71318252f1ce3f1008922cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f2f01219248ce598997b6c319170e2bab160b54f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f305026e10748eabea99fabaae43177087ae9e97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f31f8130481bcb8d3e4d870b12c1e6735d3b16b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f34faa13e64e0879ab2fa277c7b02a9f785ea9c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f3779593b71c08bd772dec40dc91a96591fdf88a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f3860253b979799425f3b66f14722e8b2be2e4d0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f3975ab0a4240bfeccb1d4ec199a27a04885d807.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f39b701f052ad1cde82c57eab1a8a4039b49cf4d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f3ab51a32df7e8961d95b66a7a47592d71615f45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f40ad55e8fb53096bb9a03f9c45167d3b3a5cf66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f5519667e75b5fbd0366c50b76a0cabbfec2926b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f5920ebc2b2116639f60f85204ad4fb4c963b78a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f5a6a3eadf6146f07481841329e0b2d6ac50c0ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f60d38c127f266f54e163ce6e79eabf592bdfbd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f641fdbf97cded8903b2715dfc2cdc8799c0f8ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f64816c3bb2a4b6fa74f31234c1dc31c6b4c6be0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f64c5b73d215d633fdd2bcd2a80ced0a5e46b3f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f662f3e24a68381a74169eb379af8b0f6400e289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f681c0e59dfca799c36ddd762e394669fe5dc192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f6a657dbfe5c0cf4275b810efd31f3af45a51800.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f7e0bf2eaf2e8b9aa91e2114e57eacc6b751ef73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f8105ab804223d994e44ff6a40aa9ee3448ccea7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f8169f38d18cdc91f8337daa66a84283cf0d1c72.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f85cefc1bb7ba72b179b5887915deb277c83f8d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f8bab3bfc1dea8f4b285b3039414ed2d58cd10e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f8bb2df478043d39530eaa19a67aa9dce8828c94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f8e042a8fd70a7f62a220b3b7b8bdab553aaaff7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f8e2207982ed3e4b6361ba3508234fb1dbf02d6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f922312df25c87db1e9476c01a183dc59de2d47c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f93e2d07cce185dbcccc99e30aa1a524fa9ecc00.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f96f3be03be06057411d30c45f298e85ea57f232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f98f8491c1a38f76b01293cec87ea7bd1e5ae61c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/f9e78cd27adc1111e9836414badb865dc9150116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fa278cfad09a607cc5d118058770ff329aed065a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fb1ab8775c7d02d14dc9864b2cc88ce0dc726c04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fb27e6c34bfa699d6948532d09630f2813e1efd3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fb4e847993511921a3d52fbf1d9b208083df75e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fb5c63388d44d1dceab3081f5d531d9170c52b70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fb61c831d1d3b01e120a81662edb0318c40fe5cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fb9802cb49163afca491a56931cc46b98810cb0b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fbbd3590f916e5be406daad2d503e3b8519f71c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fbc778f9841a78f092d2ca33f4a41ca140c14a82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fce006362121f979310e9843c793fbb4412e3c1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fd266e90e26df8cb1eb204d3e659b40c79946302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fd3489d1e434dbc4509049f7cfb2fb8b548732c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fd92283848f73d8723947ec8fbd9eaf9c12a2e60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fd92ed0eccd3d0222dd903310eb3f6265166285d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fd96a1a3da00eb6428cf7fe01d5d830349a761aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fddc6d1e5cdda3e87161b4a9e0c8f5418f695351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fe3b8c443a70f1d68816d21824f782a22f2bda12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/fe7db4bfb42c97a19b901cefea40142d19119217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ff80a80ace6638ba609f46a3abad9aefc207f99c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ffb3a91821fc2b188d7542c783c654f35e0ba3f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ffc32c49b73fd6f734b454328615884399049410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ffc74b6941c730d93ee5d29bac1f0bd4a691197a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ffd4e3df207bfd87d8c56666bd76d3f86397358d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" afterDir="false" />
     </list>
@@ -15,15 +1184,51 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DangdangRank$settings.coverage" NAME="settings Coverage Results" MODIFIED="1586499053275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DangdangRank" />
     <SUITE FILE_PATH="coverage/DangdangRank$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1586410060374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DangdangRank" />
-    <SUITE FILE_PATH="coverage/DangdangRank$main.coverage" NAME="main Coverage Results" MODIFIED="1586499191637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DangdangRank$main.coverage" NAME="main Coverage Results" MODIFIED="1586856036364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DangdangRank/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+            <state relative-caret-position="229">
+              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DangdangRank/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#155#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DangdangRank/utils/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#196#210#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,8 +1236,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DangdangRank/spiders/dangdang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="116">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -58,15 +1263,15 @@
         <option value="$PROJECT_DIR$/DangdangRank/middlewares.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/DangdangRank/utils/common.py" />
-        <option value="$PROJECT_DIR$/DangdangRank/pipelines.py" />
-        <option value="$PROJECT_DIR$/DangdangRank/items.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/DangdangRank/items.py" />
         <option value="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" />
+        <option value="$PROJECT_DIR$/DangdangRank/pipelines.py" />
         <option value="$PROJECT_DIR$/DangdangRank/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -92,7 +1297,7 @@
               <item name="DangdangRank" type="b2602c69:ProjectViewProjectNode" />
               <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
               <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,33 +1412,38 @@
       <updated>1586409182344</updated>
       <workItem from="1586409186664" duration="18876000" />
       <workItem from="1586439935715" duration="44000" />
-      <workItem from="1586492065630" duration="2811000" />
+      <workItem from="1586492065630" duration="2875000" />
+      <workItem from="1586583689077" duration="172000" />
+      <workItem from="1586594090459" duration="2159000" />
+      <workItem from="1586686852015" duration="2046000" />
+      <workItem from="1586779019124" duration="1989000" />
+      <workItem from="1586848441887" duration="729000" />
+      <workItem from="1586853994648" duration="2252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21731000" />
+    <option name="totallyTimeSpent" value="31142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42409638" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.35301206" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,16 +1480,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#1#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/6de1789451809f3bf2f32ad9fdad0a05408bb69f.jpg" />
     <entry file="file://$USER_HOME$/opt/anaconda3/envs/django/lib/python3.7/site-packages/scrapy/loader/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -301,13 +1501,6 @@
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/2ca4d32304805496a40bac1085860ba36034bf52.jpg" />
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/5ca30f74fa0c953528e80b389cca4315e5647728.jpg" />
     <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/0ee09d7d58f90ae443b0be1e7d48b89d81ea0122.jpg" />
-    <entry file="file://$PROJECT_DIR$/DangdangRank/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -315,30 +1508,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#1#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opt/anaconda3/envs/django/lib/python3.7/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DangdangRank/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="e#170#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DangdangRank/utils/common.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="34">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="e#196#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DangdangRank/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="42">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#155#168#0" expanded="true" />
           </folding>
@@ -347,18 +1557,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DangdangRank/spiders/dangdang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="116">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#196#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DangdangRank/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+        <state relative-caret-position="229">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
         </state>
       </provider>
     </entry>

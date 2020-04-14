@@ -21,6 +21,13 @@ def remove_sign(value):
 def remove_brackets(value):
     return re.sub("（.*）", "", value)
 
+def getprice(value):
+    value = value[0]
+    # ¥1,080.00
+    value = re.sub(",", "", value)
+    value = value.split('¥')[1:]
+    return float(value[0])
+
 
 class DangdangItemLoader(ItemLoader):
     default_output_processor = TakeFirst()
@@ -28,7 +35,7 @@ class DangdangItemLoader(ItemLoader):
 
 class DangdangItem(scrapy.Item):
     url = scrapy.Field()
-    # url_object_id = scrapy.Field()
+    id = scrapy.Field()
     rank_year = scrapy.Field(
         input_processor=Compose(
             lambda x: int(x[0])
@@ -57,11 +64,12 @@ class DangdangItem(scrapy.Item):
     price = scrapy.Field(
         # input_processor=MapCompose(remove_sign)
         input_processor=Compose(
-            lambda x: x[0],
-            lambda x: float(x.split('¥')[1])
+            getprice
         )
     )
-    publish_time = scrapy.Field()
+    publish_time = scrapy.Field(
+
+    )
     front_image_url = scrapy.Field(
         output_processor=Identity()
     )

@@ -28,12 +28,15 @@ class DangdangSpider(scrapy.Spider):
             loader.add_css("rank", ".list_num::text")
             url = r.css(".name a::attr(href)").extract_first()
             loader.add_value("url", url)
-            # loader.add_value("url_object_id", get_md5(url))
+            loader.add_value("id", get_md5(url)+self.rank_year)
             loader.add_css("book_name", ".name a::attr(title)")
             loader.add_css("author", ".publisher_info a::text")
             loader.add_css("publisher", ".publisher_info a::text")
             loader.add_css("price", ".price_r::text")
-            loader.add_css("publish_time", ".publisher_info span::text")
+            publish_time = r.css(".publisher_info span::text").extract_first()
+            if not publish_time:
+                publish_time = "1970-01-01"
+            loader.add_value("publish_time", publish_time)
             front_image_url = r.css(".pic img::attr(src)").extract()
             loader.add_value("front_image_url", front_image_url)
             loader.add_css("comment_nums", ".star a::text")
