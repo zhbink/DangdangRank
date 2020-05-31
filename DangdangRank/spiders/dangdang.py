@@ -37,7 +37,8 @@ class DangdangSpider(scrapy.Spider):
             if not publish_time:
                 publish_time = "1970-01-01"
             loader.add_value("publish_time", publish_time)
-            front_image_url = r.css(".pic img::attr(src)").extract()
+
+            front_image_url = r.css(".pic img::attr(src)").extract_first()
             loader.add_value("front_image_url", front_image_url)
             loader.add_css("comment_nums", ".star a::text")
             loader.add_css("recommend_percent", ".tuijian::text")

@@ -28,7 +28,7 @@ DOWNLOADER_MIDDLEWARES = {
 }
 
 ITEM_PIPELINES = {
-'DangdangRank.pipelines.BookImagePipeline': 1,
+# 'DangdangRank.pipelines.BookImagePipeline': 1,
     'DangdangRank.pipelines.MongoPipeline': 100,
     # 'DangdangRank.pipelines.RedisPipeline': 400,
 }
@@ -47,7 +47,7 @@ RANK_YEAR = '2019'
 
 """ mongodb相关设置 """
 # MONGO_URL = '120.53.12.69:27017'
-MONGO_URL = '127.0.0.1:27017'
+MONGO_URL = '47.94.135.183:27017'
 MONGO_DB = 'dangdang'
 MONGO_COL = 'dangdangBook'
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"

@@ -71,7 +71,7 @@ class DangdangItem(scrapy.Item):
 
     )
     front_image_url = scrapy.Field(
-        output_processor=Identity()
+        # output_processor=Identity()
     )
     front_image_path = scrapy.Field()
     comment_nums = scrapy.Field(

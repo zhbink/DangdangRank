@@ -31,13 +31,15 @@ class MongoPipeline(object):
         )
 
     def open_spider(self, spider):
-        self.client = pymongo.MongoClient(self.mongo_uri)
+        uri = "mongodb://zhbink:xxx@47.94.135.183:27017/"
+        self.client = pymongo.MongoClient(uri, 27017)
+        # self.client = pymongo.MongoClient(self.mongo_uri)
         self.db = self.client[self.mongo_db]
         self.col = self.db[self.mongo_col]
 
     def process_item(self, item, spider):
         item_dict = dict(item)
-        item_dict.pop('front_image_url')
+        # item_dict.pop('front_image_url')
         self.col.insert_one(item_dict)
         return item
 

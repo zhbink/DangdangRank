@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="937cdf1b-c155-4c4b-8fb7-bdf2984aca5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DangdangRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DangdangRank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/001e779c87294a96e93f7bc342d35ac5493570b4.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/003c15962d2d4de293b5381f1b161cc1cc17025a.jpg" beforeDir="false" />
@@ -259,6 +261,7 @@
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/33bb475633937d068a8725dca7cf70e2d0f2ea81.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/33ea3bef028987a66126d40993ce197ef60616f4.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3404e17ffe0630073404d933b949b197f102ed02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3456ac14bebfb5349b1d5ae54be06971f7ad96aa.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/34c49564b860e1d53e467151ebc1a11fec06ba8f.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/34db1f0dc623a77c151aeadfba5d97d9a826501a.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/353629eccd99ab312083be818e9199ee1da0e2ab.jpg" beforeDir="false" />
@@ -293,7 +296,6 @@
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b3b4d310b608f7839d7c8828143352254225ef2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b6dc68a16536406e2e8e5823f7c9c69968896f5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b85e80bd52eb184001bec22a0227585137d20bb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3b9a5eb502fd96e130df7f14ab3ebeccb1526d1f.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3bcfa22aa6c6cb63f2233d0432d44b7e28b0527d.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3ca67d0b4e42bf086085a0bf8c3c9ecdd214aea5.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/3cb883df22bed4abcc0c8aeee2d64943a6029658.jpg" beforeDir="false" />
@@ -558,7 +560,6 @@
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/739e64f6271c5249ce002471b102135f5cd1555f.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/73a6ffce4fd18381b8b86ed1cf11a341bc3f6d55.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/73d44f2e1cca1a5bda45c26a2d02bcd979302699.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/740dd960b6961a0a4f2a8415986259aebe467e17.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/742dc75b96af57adfba60c75b7b8f3591dcfac3c.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/74513ca2fd3b02f4e808f651d7651038f6ac8528.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/74c7ea136df44d1a45d2f341883611f5607df1e6.jpg" beforeDir="false" />
@@ -579,7 +580,6 @@
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/78a7a14ab2b029ecdf4b53ef2fbf8d3452b6be02.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7a1dfbad7df76b3c09e7b653f9d905f5dc1de8f2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7a7a94f6fba004f87b080718f542fea7e5d7fed4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7a7b2bc2940e71255484d525b2efa79546ebe306.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7aa12319c83cc04cede0a17fdb68da3ff655eff3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7b21b2fb339c368707fd2fb253231102181f13d3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/7b575cfb09debf7d277c710ce974d723c25a3182.jpg" beforeDir="false" />
@@ -758,6 +758,7 @@
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a2094d05f4927eebd9e11f54666455a5df2981b3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a22751b977d0f45f8094cc2eecbef330624b3345.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a23d511a321223c49a2695fa957acbf64917a5c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a2812126378adb276eec0eda5ab18b9205da865f.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a296d80705503f261ebfa7619e438d3af55dcda2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a29cc182702a97fab5dc3ba90f4f3d4ebfac197b.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/a2a97617da3c2a0e527ef48983242dfaa18efed2.jpg" beforeDir="false" />
@@ -968,6 +969,7 @@
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d196f0e7e8cd8404ff173091680c125cc85d294f.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d1a76471536a8aa0fd1158f2cfbec840b6952ca3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d1caba3bfffbb7f0548ed57b461d0e03b9eb241e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d20ec48f09861782c683b31c5edebb4a0a49f941.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d220a9600704f9a2b8d5baad42d39438819e1cb6.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d2ecc0327196104bfdba1626557e4f88d2c1ac39.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/d37d1d39fe2da6427e7e9133f67e403e48278163.jpg" beforeDir="false" />
@@ -1172,10 +1174,10 @@
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ffc74b6941c730d93ee5d29bac1f0bd4a691197a.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/images/full/ffd4e3df207bfd87d8c56666bd76d3f86397358d.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DangdangRank/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" beforeDir="false" afterPath="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1184,68 +1186,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DangdangRank$settings.coverage" NAME="settings Coverage Results" MODIFIED="1586499053275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DangdangRank" />
     <SUITE FILE_PATH="coverage/DangdangRank$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1586410060374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DangdangRank" />
-    <SUITE FILE_PATH="coverage/DangdangRank$main.coverage" NAME="main Coverage Results" MODIFIED="1586856036364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#155#168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/utils/common.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-              <folding>
-                <element signature="e#196#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DangdangRank/spiders/dangdang.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <SUITE FILE_PATH="coverage/DangdangRank$main.coverage" NAME="main Coverage Results" MODIFIED="1587298218140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1257,73 +1198,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/DangdangRank/middlewares.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/DangdangRank/utils/common.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/DangdangRank/items.py" />
-        <option value="$PROJECT_DIR$/DangdangRank/spiders/dangdang.py" />
-        <option value="$PROJECT_DIR$/DangdangRank/pipelines.py" />
-        <option value="$PROJECT_DIR$/DangdangRank/settings.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1ceumWYAj6sbOhvQw3hAylPtaDW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DangdangRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DangdangRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
-              <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DangdangRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
-              <item name="DangdangRank" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -1419,168 +1307,39 @@
       <workItem from="1586779019124" duration="1989000" />
       <workItem from="1586848441887" duration="729000" />
       <workItem from="1586853994648" duration="2252000" />
+      <workItem from="1586927444513" duration="272000" />
+      <workItem from="1587297690406" duration="930000" />
+      <workItem from="1587375823422" duration="58000" />
+      <workItem from="1590901541396" duration="1102000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31142000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42409638" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.35301206" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32891566" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Redis Servers" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.35301206" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Redis Servers" order="0" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="right" id="Database" order="2" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/6de1789451809f3bf2f32ad9fdad0a05408bb69f.jpg" />
-    <entry file="file://$USER_HOME$/opt/anaconda3/envs/django/lib/python3.7/site-packages/scrapy/loader/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/opt/anaconda3/envs/django/lib/python3.7/site-packages/scrapy/http/response/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/0aa41003f2725e600a75c563641a59d964191d4a.jpg" />
-    <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/0ada672f09b5d49f96fbd3a50102b9594969736e.jpg" />
-    <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/1b43ff4d7a8bf32585a735a2a44180e66108f2de.jpg" />
-    <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/2ca4d32304805496a40bac1085860ba36034bf52.jpg" />
-    <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/5ca30f74fa0c953528e80b389cca4315e5647728.jpg" />
-    <entry file="file://$PROJECT_DIR$/DangdangRank/images/full/0ee09d7d58f90ae443b0be1e7d48b89d81ea0122.jpg" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#1#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/opt/anaconda3/envs/django/lib/python3.7/site-packages/scrapy/http/request/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
-          <folding>
-            <element signature="e#170#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/utils/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#155#168#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/spiders/dangdang.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#196#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DangdangRank/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom" timestamp="1590902961548">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590902961548" />
+    <state width="1398" height="270" key="GridCell.Tab.0.center" timestamp="1590902961547">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1590902961547" />
+    <state width="1398" height="270" key="GridCell.Tab.0.left" timestamp="1590902961547">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1590902961547" />
+    <state width="1398" height="270" key="GridCell.Tab.0.right" timestamp="1590902961547">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1590902961547" />
+    <state x="221" y="60" key="SettingsEditor" timestamp="1590902263119">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="221" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1590902263119" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DangdangRank$main.coverage" NAME="main Coverage Results" MODIFIED="1590902961536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
