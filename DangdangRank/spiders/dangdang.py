@@ -7,7 +7,6 @@ from DangdangRank.settings import RANK_YEAR
 import requests
 import urllib
 
-
 # scrapy shell -s USER_AGENT="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36" http://bang.dangdang.com/books/bestsellers/01.00.00.00.00.00-year-2016-0-1-1
 
 class DangdangSpider(scrapy.Spider):
@@ -15,6 +14,15 @@ class DangdangSpider(scrapy.Spider):
     allowed_domains = ['product.dangdang.com', 'bang.dangdang.com']
     start_urls = ['http://bang.dangdang.com/']
     rank_year = RANK_YEAR
+
+    def __init__(self, year, *args, **kwargs):
+        super(DangdangSpider, self).__init__(*args, **kwargs)
+        # super().__init__(**kwargs)
+        if year=="2017" or year=="2018" or year=="2019" or year=="2020":
+            self.rank_year = year
+        else:
+            self.rank_year = RANK_YEAR
+        print(self.rank_year)
 
     def parse(self, response):
         for i in range(1, 26):

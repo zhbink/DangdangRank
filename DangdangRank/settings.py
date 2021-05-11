@@ -43,13 +43,15 @@ custom_settings = {
 }
 
 # 设置爬取年份
-RANK_YEAR = '2019'
+RANK_YEAR = '2017'
 
 """ mongodb相关设置 """
-# MONGO_URL = '120.53.12.69:27017'
 MONGO_URL = 'localhost:27017'
+#MONGO_URI = 'localhost:27017'
 MONGO_DB = 'DjangoServer'
-MONGO_COL = 'dangdangBook'
+MONGO_COL = 'dangdangBook2'
+MONGO_USER = 'user1'
+MONGO_PASSWORD = 'MongoPassWd1'
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 SQL_DATE_FORMAT = "%Y-%m-%d"
 
