@@ -8,7 +8,7 @@
 
 import pymongo
 from scrapy.pipelines.images import ImagesPipeline
-
+# from DangdangRank.settings import MONGO_URL
 
 class MongoPipeline(object):
     def __init__(self, mongo_url, mongo_db, mongo_col):
@@ -31,7 +31,7 @@ class MongoPipeline(object):
         )
 
     def open_spider(self, spider):
-        uri = "mongodb://zhbink:xxx@47.94.135.183:27017/"
+        uri = "mongodb://user1:MongoPassWd1@localhost:27017/"
         self.client = pymongo.MongoClient(uri, 27017)
         # self.client = pymongo.MongoClient(self.mongo_uri)
         self.db = self.client[self.mongo_db]

@@ -47,8 +47,8 @@ RANK_YEAR = '2019'
 
 """ mongodb相关设置 """
 # MONGO_URL = '120.53.12.69:27017'
-MONGO_URL = '47.94.135.183:27017'
-MONGO_DB = 'dangdang'
+MONGO_URL = 'localhost:27017'
+MONGO_DB = 'DjangoServer'
 MONGO_COL = 'dangdangBook'
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 SQL_DATE_FORMAT = "%Y-%m-%d"

@@ -1,0 +1,19 @@
+version: '3.7'
+services:
+
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongo/mongod.conf:/etc/mongo/mongod.conf
+      - ./mongo/data:/data
+      - ./mongo/log:/var/log/mongodb
+      # - ./mongo/initscript.sh:/docker-entrypoint-initdb.d/initscript:ro  # 存在未知bug，需手动创建user
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: MongoPassWd1
+      MONGO_INITDB_DATABASE: douBan
+    command: --config /etc/mongo/mongod.conf --auth
+    restart: always
